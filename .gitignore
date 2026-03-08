@@ -1,0 +1,22 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode
+.vscode/
+
+# Entornos virtuales
+env/
+venv/
+
+# DVC cache y metadatos
+.dvc/cache/
+.dvc/tmp/
+*.dvc
+
+# MLflow runs
+mlruns/
+
+# Archivos generados
+*.log
