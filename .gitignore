@@ -1,22 +1,21 @@
-# Byte-compiled / Python caches
+# Ignorar la carpeta de datos grandes
+data/processed/
+
+# Ignorar modelos entrenados
+models/
+
+# Ignorar resultados de experimentos
+results/
+
+# Ignorar cachés de Python
 __pycache__/
-*.py[cod]
-*.pyo
+*.pyc
 
-# VSCode
-.vscode/
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
 
-# Entornos virtuales
-env/
-venv/
-
-# DVC cache y metadatos
-.dvc/cache/
-.dvc/tmp/
-*.dvc
-
-# MLflow runs
-mlruns/
-
-# Archivos generados
+# Ignorar logs locales
 *.log
+
+# NO ignorar archivos .dvc, necesarios para DVC
+!*.dvc
