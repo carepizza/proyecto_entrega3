@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+    - path: data/raw/angiografia_dataset_1000.csv
+      hash: md5
+      md5: 9b3640d951c77795aa7c034da69b1671
+      size: 74858
+    - path: src/preprocessing.py
+      hash: md5
+      md5: a9ca4d40182b4d25fe85b5318d41096c
+      size: 3257
+    outs:
+    - path: data/processed/angiografia_clean.csv
+      hash: md5
+      md5: 8aeceb6badb487cc322cb8b642b60f0c
+      size: 148757
