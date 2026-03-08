@@ -1,0 +1,977 @@
+ID_Procedimiento,Fecha,Tipo_Procedimiento,Edad,Peso,PKA_Gycm2,Kar_mGy,Tiempo_Fluoroscopia_min,excede_DRL
+ANG0001,2025-06-21,AngiografÃ­a Cerebral,66,59.8,280.23,1758.9,40.1,1
+ANG0002,2025-03-10,AngiografÃ­a Aorta Abdominal,66,80.6,82.68,737.0,14.8,0
+ANG0003,2025-03-01,AngiografÃ­a Aorta Abdominal,63,76.7,83.05,805.1,14.2,0
+ANG0005,2025-02-11,CoronariografÃ­a DiagnÃ³stica,74,68.9,19.68,141.0,1.3,0
+ANG0006,2025-01-23,AngiografÃ­a Aorta Abdominal,61,105.0,52.13,350.6,5.4,0
+ANG0007,2025-11-05,AngiografÃ­a Cerebral,61,86.6,48.65,502.3,10.2,0
+ANG0008,2025-06-06,AngiografÃ­a Cerebral,52,100.6,93.62,748.6,18.3,0
+ANG0009,2025-10-16,AngiografÃ­a PerifÃ©rica,60,67.8,71.89,563.6,16.6,0
+ANG0010,2025-06-08,CoronariografÃ­a DiagnÃ³stica,56,63.3,18.36,184.8,8.1,0
+ANG0011,2025-05-16,AngiografÃ­a PerifÃ©rica,54,66.7,89.35,720.0,20.2,1
+ANG0012,2025-10-19,CoronariografÃ­a DiagnÃ³stica,72,85.8,95.3,637.6,14.4,1
+ANG0013,2025-01-23,AngiografÃ­a Cerebral,66,74.2,107.83,654.0,24.6,0
+ANG0014,2025-04-21,AngiografÃ­a Renal,57,84.7,85.24,674.4,20.7,1
+ANG0015,2025-10-14,AngiografÃ­a Renal,37,103.3,45.64,359.0,11.1,0
+ANG0016,2025-10-29,AngiografÃ­a PerifÃ©rica,69,65.6,46.45,398.4,9.2,0
+ANG0017,2025-01-01,CoronariografÃ­a DiagnÃ³stica,62,91.4,22.89,288.0,4.5,0
+ANG0018,2025-11-09,AngiografÃ­a PerifÃ©rica,54,87.8,20.49,184.5,7.2,0
+ANG0019,2025-07-29,AngiografÃ­a Aorta Abdominal,74,74.4,89.2,782.9,15.5,0
+ANG0020,2025-01-25,CoronariografÃ­a DiagnÃ³stica,65,50.0,46.87,361.0,9.4,0
+ANG0021,2025-03-04,AngiografÃ­a Cerebral,46,64.2,98.43,563.0,15.9,0
+ANG0022,2025-05-28,CoronariografÃ­a DiagnÃ³stica,66,63.0,44.67,357.8,8.3,0
+ANG0024,2025-11-01,AngiografÃ­a Cerebral,30,74.5,74.28,486.8,13.0,0
+ANG0025,2025-03-19,CoronariografÃ­a DiagnÃ³stica,64,102.3,24.53,361.6,7.6,0
+ANG0026,2025-05-12,CoronariografÃ­a DiagnÃ³stica,61,79.3,42.94,338.8,8.6,0
+ANG0027,2025-06-11,CoronariografÃ­a DiagnÃ³stica,58,74.0,59.35,417.6,10.0,0
+ANG0028,2025-09-04,AngiografÃ­a Renal,56,63.4,31.67,376.4,8.7,0
+ANG0029,2025-09-06,AngiografÃ­a Renal,48,82.3,24.16,242.4,6.4,0
+ANG0030,2025-03-19,AngiografÃ­a Renal,50,93.7,50.8,376.6,10.2,0
+ANG0031,2025-11-07,CoronariografÃ­a DiagnÃ³stica,45,101.5,27.88,205.2,7.6,0
+ANG0032,2025-01-20,CoronariografÃ­a DiagnÃ³stica,44,55.8,103.43,647.2,19.5,1
+ANG0033,2025-12-21,AngiografÃ­a Cerebral,70,74.5,81.61,723.1,20.1,0
+ANG0034,2025-12-25,AngiografÃ­a Cerebral,66,84.3,55.18,338.9,9.4,0
+ANG0035,2025-01-29,CoronariografÃ­a DiagnÃ³stica,56,63.3,52.29,360.2,9.8,0
+ANG0036,2025-06-02,CoronariografÃ­a DiagnÃ³stica,44,102.2,47.56,332.6,7.0,0
+ANG0037,2025-08-07,AngiografÃ­a Aorta Abdominal,82,98.6,68.44,691.1,12.8,0
+ANG0038,2025-07-09,AngiografÃ­a Cerebral,68,65.6,96.13,735.1,13.5,0
+ANG0039,2025-11-03,AngiografÃ­a Renal,58,71.7,60.98,451.8,15.9,1
+ANG0040,2025-11-06,CoronariografÃ­a DiagnÃ³stica,77,106.2,42.01,344.7,7.9,0
+ANG0041,2025-10-16,CoronariografÃ­a DiagnÃ³stica,64,50.0,54.34,408.5,10.0,0
+ANG0042,2025-03-14,CoronariografÃ­a DiagnÃ³stica,51,77.7,41.46,434.1,7.5,0
+ANG0043,2025-02-11,CoronariografÃ­a DiagnÃ³stica,54,73.9,41.95,307.0,8.7,0
+ANG0044,2025-10-30,AngiografÃ­a Renal,70,85.4,75.15,588.7,19.2,1
+ANG0045,2025-07-17,CoronariografÃ­a DiagnÃ³stica,75,90.4,51.14,382.1,9.1,0
+ANG0047,2025-11-11,AngiografÃ­a Renal,55,85.2,42.54,335.0,12.5,0
+ANG0048,2025-09-30,AngiografÃ­a Cerebral,51,55.9,180.17,1122.3,35.3,1
+ANG0049,2025-05-11,CoronariografÃ­a DiagnÃ³stica,51,94.2,42.82,352.1,8.4,0
+ANG0050,2025-12-15,AngiografÃ­a PerifÃ©rica,36,93.5,84.37,463.9,18.0,1
+ANG0051,2025-04-18,AngiografÃ­a Cerebral,59,91.0,75.17,689.5,19.7,0
+ANG0052,2025-08-24,AngiografÃ­a PerifÃ©rica,55,50.0,26.37,184.3,8.5,0
+ANG0053,2025-01-03,CoronariografÃ­a DiagnÃ³stica,43,70.5,58.56,487.4,7.5,0
+ANG0054,2025-03-14,AngiografÃ­a Cerebral,66,71.3,63.7,427.9,13.6,0
+ANG0055,2025-07-17,CoronariografÃ­a DiagnÃ³stica,70,78.1,44.97,327.1,7.3,0
+ANG0056,2025-08-31,CoronariografÃ­a DiagnÃ³stica,67,51.5,49.58,364.9,7.8,0
+ANG0057,2025-08-29,AngiografÃ­a Cerebral,64,92.9,99.24,566.5,18.0,0
+ANG0058,2025-06-27,CoronariografÃ­a DiagnÃ³stica,85,77.5,47.94,375.3,10.0,0
+ANG0059,2025-09-26,CoronariografÃ­a DiagnÃ³stica,64,52.3,94.47,779.2,14.4,1
+ANG0060,2025-05-17,AngiografÃ­a PerifÃ©rica,55,74.0,53.32,426.3,11.7,0
+ANG0061,2025-08-14,CoronariografÃ­a DiagnÃ³stica,44,56.1,70.67,484.3,10.5,1
+ANG0062,2025-11-12,CoronariografÃ­a DiagnÃ³stica,61,75.6,75.34,570.1,13.9,1
+ANG0063,2025-02-09,AngiografÃ­a Cerebral,66,102.7,123.74,822.7,21.2,0
+ANG0064,2025-12-19,CoronariografÃ­a DiagnÃ³stica,73,71.0,42.68,286.6,6.5,0
+ANG0066,2025-06-07,AngiografÃ­a Aorta Abdominal,55,98.5,129.37,955.7,19.4,0
+ANG0067,2025-01-13,AngiografÃ­a Aorta Abdominal,67,75.7,57.84,646.5,14.3,0
+ANG0068,2025-06-12,AngiografÃ­a PerifÃ©rica,85,69.1,42.94,346.2,8.8,0
+ANG0069,2025-11-15,CoronariografÃ­a DiagnÃ³stica,50,69.0,67.24,542.0,12.2,1
+ANG0070,2025-11-20,AngiografÃ­a Cerebral,49,91.1,59.69,476.0,8.6,0
+ANG0071,2025-07-12,CoronariografÃ­a DiagnÃ³stica,56,103.7,77.79,664.4,11.9,1
+ANG0072,2025-02-02,AngiografÃ­a Cerebral,55,73.0,37.81,397.7,11.0,0
+ANG0073,2025-01-26,AngiografÃ­a Cerebral,56,56.6,98.9,812.3,14.4,0
+ANG0074,2025-10-15,AngiografÃ­a Aorta Abdominal,74,78.7,84.25,569.8,18.7,0
+ANG0075,2025-12-03,CoronariografÃ­a DiagnÃ³stica,66,78.6,41.3,411.9,5.7,0
+ANG0076,2025-01-15,CoronariografÃ­a DiagnÃ³stica,50,63.3,63.52,503.6,11.9,0
+ANG0077,2025-10-01,AngiografÃ­a Aorta Abdominal,64,91.8,129.35,1117.2,23.7,0
+ANG0078,2025-07-18,CoronariografÃ­a DiagnÃ³stica,66,60.8,55.29,490.5,10.4,0
+ANG0079,2025-06-02,AngiografÃ­a Cerebral,39,84.1,48.47,424.3,10.5,0
+ANG0080,2025-04-27,CoronariografÃ­a DiagnÃ³stica,52,53.2,113.41,914.0,17.6,1
+ANG0081,2025-12-04,AngiografÃ­a Aorta Abdominal,85,67.6,178.45,1264.0,29.6,1
+ANG0082,2025-09-24,CoronariografÃ­a DiagnÃ³stica,66,60.5,47.01,373.2,6.5,0
+ANG0083,2025-03-27,CoronariografÃ­a DiagnÃ³stica,55,57.8,49.33,350.3,7.9,0
+ANG0084,2025-04-13,CoronariografÃ­a DiagnÃ³stica,72,77.9,30.15,309.8,6.8,0
+ANG0085,2025-04-16,CoronariografÃ­a DiagnÃ³stica,75,88.9,49.27,356.4,9.8,0
+ANG0086,2025-06-27,AngiografÃ­a Cerebral,63,94.0,122.37,816.5,26.5,0
+ANG0087,2025-03-25,AngiografÃ­a Renal,85,92.6,40.13,384.9,13.5,0
+ANG0088,2025-01-12,AngiografÃ­a Aorta Abdominal,59,65.2,87.51,718.3,17.5,0
+ANG0089,2025-02-24,AngiografÃ­a Aorta Abdominal,83,71.9,100.74,990.2,19.6,0
+ANG0090,2025-02-28,CoronariografÃ­a DiagnÃ³stica,42,58.1,61.44,444.9,10.8,0
+ANG0091,2025-07-26,CoronariografÃ­a DiagnÃ³stica,59,50.0,57.16,473.2,9.1,0
+ANG0092,2025-01-04,AngiografÃ­a Cerebral,78,88.1,134.5,1210.8,21.9,0
+ANG0093,2025-04-06,AngiografÃ­a Cerebral,52,76.1,193.24,1138.4,32.8,1
+ANG0094,2025-10-22,CoronariografÃ­a DiagnÃ³stica,66,84.8,24.08,293.4,7.2,0
+ANG0095,2025-08-13,AngiografÃ­a PerifÃ©rica,64,64.7,67.06,492.8,9.9,0
+ANG0096,2025-11-12,CoronariografÃ­a DiagnÃ³stica,61,99.2,23.36,305.1,6.3,0
+ANG0097,2025-08-19,AngiografÃ­a Aorta Abdominal,61,58.2,59.65,713.5,10.5,0
+ANG0098,2025-10-28,CoronariografÃ­a DiagnÃ³stica,65,63.5,34.42,281.9,8.1,0
+ANG0099,2025-03-21,CoronariografÃ­a DiagnÃ³stica,41,78.8,42.85,406.7,8.8,0
+ANG0100,2025-01-01,AngiografÃ­a PerifÃ©rica,43,63.9,32.32,364.3,4.2,0
+ANG0101,2025-06-24,AngiografÃ­a Aorta Abdominal,61,106.2,131.77,1130.9,25.6,0
+ANG0102,2025-04-18,CoronariografÃ­a DiagnÃ³stica,64,67.3,48.94,325.0,9.6,0
+ANG0103,2025-09-02,AngiografÃ­a Renal,80,86.6,33.79,164.4,5.7,0
+ANG0104,2025-06-27,CoronariografÃ­a DiagnÃ³stica,67,81.4,19.25,151.8,5.0,0
+ANG0105,2025-12-07,AngiografÃ­a Cerebral,61,65.2,154.41,1028.8,25.2,1
+ANG0106,2025-11-07,AngiografÃ­a Cerebral,46,74.2,103.84,751.3,17.2,0
+ANG0107,2025-03-17,AngiografÃ­a Cerebral,60,71.1,103.09,799.5,19.1,0
+ANG0108,2025-08-08,AngiografÃ­a Renal,81,80.1,25.4,254.7,6.3,0
+ANG0109,2025-03-30,CoronariografÃ­a DiagnÃ³stica,65,81.3,97.24,731.3,15.4,1
+ANG0110,2025-05-12,AngiografÃ­a Renal,69,90.7,54.35,445.4,14.3,0
+ANG0111,2025-12-05,AngiografÃ­a Cerebral,53,89.2,148.01,880.7,26.0,1
+ANG0112,2025-07-18,AngiografÃ­a PerifÃ©rica,42,50.0,93.76,825.7,20.3,1
+ANG0113,2025-08-12,AngiografÃ­a Renal,37,66.0,45.35,321.0,13.4,0
+ANG0114,2025-09-22,AngiografÃ­a PerifÃ©rica,78,89.7,50.14,243.6,15.7,0
+ANG0115,2025-04-27,CoronariografÃ­a DiagnÃ³stica,62,57.3,44.95,278.7,9.7,0
+ANG0116,2025-10-29,CoronariografÃ­a DiagnÃ³stica,40,71.2,56.98,430.6,10.7,0
+ANG0117,2025-10-17,CoronariografÃ­a DiagnÃ³stica,65,58.3,117.65,858.9,18.9,1
+ANG0118,2025-05-16,AngiografÃ­a Renal,66,88.8,20.64,142.1,8.0,0
+ANG0119,2025-05-12,AngiografÃ­a Cerebral,59,94.7,74.39,601.5,15.5,0
+ANG0120,2025-10-25,CoronariografÃ­a DiagnÃ³stica,55,72.8,68.0,537.2,7.8,1
+ANG0121,2025-02-16,AngiografÃ­a PerifÃ©rica,61,83.1,59.28,461.1,10.7,0
+ANG0122,2025-01-10,CoronariografÃ­a DiagnÃ³stica,55,68.1,29.91,267.9,6.2,0
+ANG0123,2025-02-18,AngiografÃ­a Aorta Abdominal,73,64.5,160.78,1207.9,32.4,1
+ANG0124,2025-05-26,CoronariografÃ­a DiagnÃ³stica,53,66.5,57.99,390.2,9.6,0
+ANG0125,2025-02-18,CoronariografÃ­a DiagnÃ³stica,68,81.2,44.26,348.6,8.0,0
+ANG0126,2025-06-09,AngiografÃ­a Cerebral,56,55.1,133.56,865.4,21.2,0
+ANG0127,2025-09-15,AngiografÃ­a Cerebral,66,51.8,71.83,714.4,17.5,0
+ANG0128,2025-10-07,CoronariografÃ­a DiagnÃ³stica,57,83.5,97.87,694.3,15.6,1
+ANG0129,2025-08-20,AngiografÃ­a PerifÃ©rica,73,100.7,27.22,166.7,9.5,0
+ANG0130,2025-09-26,AngiografÃ­a PerifÃ©rica,41,63.6,58.88,417.6,13.7,0
+ANG0131,2025-05-29,AngiografÃ­a Cerebral,66,51.7,57.87,520.6,6.4,0
+ANG0132,2025-05-10,AngiografÃ­a PerifÃ©rica,57,100.1,69.98,487.0,13.9,0
+ANG0133,2025-10-27,CoronariografÃ­a DiagnÃ³stica,75,85.4,41.6,278.4,9.5,0
+ANG0134,2025-01-12,AngiografÃ­a Renal,51,94.7,24.25,186.8,4.0,0
+ANG0135,2025-04-14,AngiografÃ­a Cerebral,48,86.8,70.83,557.3,14.7,0
+ANG0136,2025-10-15,CoronariografÃ­a DiagnÃ³stica,55,77.0,44.9,394.4,9.6,0
+ANG0137,2025-05-22,CoronariografÃ­a DiagnÃ³stica,59,68.9,28.94,176.6,3.7,0
+ANG0138,2025-11-27,CoronariografÃ­a DiagnÃ³stica,54,66.7,68.51,539.2,10.7,1
+ANG0139,2025-05-23,CoronariografÃ­a DiagnÃ³stica,62,73.5,71.76,524.3,12.5,1
+ANG0140,2025-12-02,CoronariografÃ­a DiagnÃ³stica,65,83.7,38.19,293.0,6.2,0
+ANG0141,2025-07-25,CoronariografÃ­a DiagnÃ³stica,62,77.6,43.5,359.7,11.8,0
+ANG0142,2025-11-06,CoronariografÃ­a DiagnÃ³stica,58,67.3,72.16,501.8,12.7,1
+ANG0143,2025-01-25,AngiografÃ­a Aorta Abdominal,63,74.0,90.53,820.9,18.7,0
+ANG0144,2025-01-20,CoronariografÃ­a DiagnÃ³stica,63,60.9,45.07,300.5,9.0,0
+ANG0145,2025-09-11,AngiografÃ­a PerifÃ©rica,40,93.8,96.86,586.5,17.2,1
+ANG0146,2025-09-24,AngiografÃ­a Renal,47,84.7,78.21,546.0,14.5,1
+ANG0147,2025-04-09,AngiografÃ­a PerifÃ©rica,50,66.6,88.29,746.5,14.2,1
+ANG0148,2025-04-11,CoronariografÃ­a DiagnÃ³stica,68,52.0,71.55,562.0,15.7,1
+ANG0149,2025-08-19,AngiografÃ­a PerifÃ©rica,70,85.1,125.09,834.5,23.9,1
+ANG0150,2025-01-14,CoronariografÃ­a DiagnÃ³stica,40,68.9,28.87,240.7,4.0,0
+ANG0151,2025-08-18,AngiografÃ­a Cerebral,69,63.1,99.8,605.4,13.2,0
+ANG0152,2025-07-07,CoronariografÃ­a DiagnÃ³stica,61,74.8,126.69,871.5,19.5,1
+ANG0153,2025-07-15,AngiografÃ­a Renal,50,83.3,68.82,533.9,18.0,1
+ANG0154,2025-02-11,CoronariografÃ­a DiagnÃ³stica,65,79.3,52.55,466.9,7.4,0
+ANG0155,2025-03-01,AngiografÃ­a Renal,53,69.3,40.37,325.9,11.3,0
+ANG0156,2025-09-04,AngiografÃ­a Cerebral,64,86.1,108.78,885.5,22.1,0
+ANG0157,2025-12-09,CoronariografÃ­a DiagnÃ³stica,50,75.9,49.9,477.9,8.4,0
+ANG0158,2025-03-28,AngiografÃ­a Aorta Abdominal,65,69.5,120.04,815.6,16.9,0
+ANG0159,2025-05-19,CoronariografÃ­a DiagnÃ³stica,55,92.9,82.72,502.8,12.4,1
+ANG0160,2025-08-08,AngiografÃ­a PerifÃ©rica,58,77.6,64.75,442.3,11.2,0
+ANG0161,2025-04-15,AngiografÃ­a Cerebral,63,107.5,70.99,619.2,12.4,0
+ANG0162,2025-06-30,AngiografÃ­a Aorta Abdominal,67,75.6,162.81,1155.4,27.4,1
+ANG0163,2025-01-10,AngiografÃ­a Cerebral,65,71.8,72.58,423.4,7.2,0
+ANG0164,2025-04-24,AngiografÃ­a Aorta Abdominal,43,71.7,96.51,864.2,20.1,0
+ANG0165,2025-05-02,AngiografÃ­a PerifÃ©rica,63,79.0,84.43,577.1,19.0,1
+ANG0166,2025-12-26,AngiografÃ­a Aorta Abdominal,63,55.6,122.87,992.4,19.4,0
+ANG0167,2025-05-30,CoronariografÃ­a DiagnÃ³stica,65,65.2,38.09,342.8,9.0,0
+ANG0169,2025-01-19,CoronariografÃ­a DiagnÃ³stica,72,78.1,28.48,238.1,7.7,0
+ANG0170,2025-12-30,CoronariografÃ­a DiagnÃ³stica,64,71.9,33.09,251.7,7.2,0
+ANG0171,2025-01-10,CoronariografÃ­a DiagnÃ³stica,69,83.8,94.34,736.3,16.5,1
+ANG0172,2025-03-27,AngiografÃ­a Cerebral,30,78.5,105.73,822.7,19.4,0
+ANG0173,2025-01-20,CoronariografÃ­a DiagnÃ³stica,53,68.4,65.84,480.7,13.9,0
+ANG0174,2025-01-24,AngiografÃ­a Renal,50,68.1,35.72,270.2,8.4,0
+ANG0175,2025-01-20,AngiografÃ­a Cerebral,70,71.2,213.8,1415.6,31.0,1
+ANG0176,2025-09-11,CoronariografÃ­a DiagnÃ³stica,58,112.7,41.39,320.7,7.6,0
+ANG0177,2025-11-01,CoronariografÃ­a DiagnÃ³stica,52,80.8,76.58,612.8,12.9,1
+ANG0178,2025-06-22,CoronariografÃ­a DiagnÃ³stica,75,68.5,32.58,235.2,6.0,0
+ANG0179,2025-04-26,AngiografÃ­a PerifÃ©rica,69,88.2,39.11,290.2,8.7,0
+ANG0180,2025-02-16,AngiografÃ­a Aorta Abdominal,85,71.6,69.89,586.2,17.5,0
+ANG0181,2025-05-17,AngiografÃ­a Cerebral,62,75.7,119.76,752.2,23.9,0
+ANG0182,2025-07-17,AngiografÃ­a Aorta Abdominal,83,50.0,119.22,1120.4,19.5,0
+ANG0183,2025-12-15,CoronariografÃ­a DiagnÃ³stica,47,50.0,65.02,488.6,12.5,0
+ANG0184,2025-05-06,AngiografÃ­a Cerebral,76,74.6,211.89,1550.8,30.0,1
+ANG0185,2025-11-22,AngiografÃ­a PerifÃ©rica,56,60.0,56.62,490.7,9.7,0
+ANG0186,2025-09-27,CoronariografÃ­a DiagnÃ³stica,52,62.4,32.06,258.5,8.6,0
+ANG0187,2025-07-24,CoronariografÃ­a DiagnÃ³stica,54,67.7,76.09,668.2,10.6,1
+ANG0188,2025-01-07,CoronariografÃ­a DiagnÃ³stica,51,72.7,43.27,365.8,10.5,0
+ANG0189,2025-05-23,AngiografÃ­a Renal,52,88.9,52.36,424.5,12.4,0
+ANG0190,2025-01-21,AngiografÃ­a Aorta Abdominal,85,86.9,60.8,608.4,7.5,0
+ANG0191,2025-12-11,AngiografÃ­a Renal,47,99.4,47.33,339.2,12.3,0
+ANG0192,2025-03-02,AngiografÃ­a PerifÃ©rica,60,81.4,79.13,602.5,14.7,0
+ANG0193,2025-01-17,AngiografÃ­a Aorta Abdominal,50,83.3,98.36,987.3,18.9,0
+ANG0194,2025-02-26,CoronariografÃ­a DiagnÃ³stica,53,68.3,115.65,919.4,16.9,1
+ANG0195,2025-03-27,CoronariografÃ­a DiagnÃ³stica,71,64.7,42.05,299.9,4.2,0
+ANG0196,2025-10-04,CoronariografÃ­a DiagnÃ³stica,61,67.8,31.63,276.7,8.7,0
+ANG0197,2025-08-20,CoronariografÃ­a DiagnÃ³stica,58,82.7,55.15,426.2,9.5,0
+ANG0199,2025-03-30,AngiografÃ­a Cerebral,47,71.9,51.39,388.3,13.4,0
+ANG0200,2025-03-26,CoronariografÃ­a DiagnÃ³stica,54,90.7,26.24,98.1,7.0,0
+ANG0201,2025-09-25,CoronariografÃ­a DiagnÃ³stica,65,58.2,67.79,498.7,11.5,1
+ANG0202,2025-08-08,AngiografÃ­a Cerebral,41,66.8,75.22,586.5,15.1,0
+ANG0203,2025-04-17,AngiografÃ­a Aorta Abdominal,76,65.6,129.19,985.6,17.8,0
+ANG0204,2025-06-07,AngiografÃ­a Cerebral,57,59.1,115.32,787.1,21.2,0
+ANG0205,2025-09-04,AngiografÃ­a PerifÃ©rica,64,63.4,46.31,406.0,10.7,0
+ANG0206,2025-09-22,AngiografÃ­a Cerebral,57,77.5,172.48,1061.2,29.5,1
+ANG0207,2025-12-30,CoronariografÃ­a DiagnÃ³stica,40,65.9,84.66,623.7,12.3,1
+ANG0208,2025-10-04,AngiografÃ­a Renal,48,66.0,88.24,651.5,20.8,1
+ANG0209,2025-12-04,AngiografÃ­a Cerebral,67,93.9,47.78,506.3,8.8,0
+ANG0210,2025-09-28,AngiografÃ­a PerifÃ©rica,74,67.7,66.27,448.6,14.5,0
+ANG0211,2025-05-28,CoronariografÃ­a DiagnÃ³stica,67,67.9,70.27,462.1,12.0,1
+ANG0212,2025-10-21,CoronariografÃ­a DiagnÃ³stica,81,66.1,44.13,329.2,10.2,0
+ANG0213,2025-05-22,AngiografÃ­a Renal,53,79.5,47.72,402.0,10.9,0
+ANG0214,2025-02-15,AngiografÃ­a PerifÃ©rica,46,91.6,54.95,296.0,13.4,0
+ANG0215,2025-01-30,AngiografÃ­a Aorta Abdominal,63,96.2,107.46,862.4,20.1,0
+ANG0216,2025-04-20,CoronariografÃ­a DiagnÃ³stica,55,77.9,55.14,471.7,8.7,0
+ANG0217,2025-10-02,AngiografÃ­a Aorta Abdominal,69,102.6,98.97,796.0,17.4,0
+ANG0219,2025-09-21,AngiografÃ­a Renal,51,86.9,54.09,512.5,12.0,0
+ANG0220,2025-09-25,AngiografÃ­a Aorta Abdominal,73,76.1,190.52,1371.5,30.7,1
+ANG0221,2025-07-20,CoronariografÃ­a DiagnÃ³stica,64,84.6,63.88,619.1,8.0,0
+ANG0222,2025-03-17,AngiografÃ­a Aorta Abdominal,57,58.2,104.43,751.6,16.6,0
+ANG0223,2025-08-20,AngiografÃ­a Renal,54,84.5,54.6,468.5,11.5,0
+ANG0224,2025-09-17,CoronariografÃ­a DiagnÃ³stica,65,71.2,16.78,192.5,4.1,0
+ANG0225,2025-06-11,AngiografÃ­a PerifÃ©rica,64,74.7,43.86,260.0,9.9,0
+ANG0226,2025-10-10,CoronariografÃ­a DiagnÃ³stica,57,68.6,35.46,226.6,6.5,0
+ANG0227,2025-10-18,AngiografÃ­a Cerebral,41,50.0,146.88,1217.7,23.5,1
+ANG0228,2025-12-19,CoronariografÃ­a DiagnÃ³stica,64,91.3,37.28,332.2,11.3,0
+ANG0229,2025-12-29,AngiografÃ­a Renal,47,87.8,44.59,407.2,11.4,0
+ANG0230,2025-02-08,AngiografÃ­a Cerebral,70,103.5,92.43,598.4,10.6,0
+ANG0231,2025-04-18,CoronariografÃ­a DiagnÃ³stica,67,80.2,28.62,291.9,3.7,0
+ANG0232,2025-03-31,AngiografÃ­a Renal,70,77.2,31.8,229.7,9.1,0
+ANG0233,2025-06-10,AngiografÃ­a Cerebral,30,64.2,86.34,535.1,13.9,0
+ANG0234,2025-08-31,AngiografÃ­a Cerebral,58,82.7,88.03,751.4,18.0,0
+ANG0235,2025-11-03,CoronariografÃ­a DiagnÃ³stica,61,75.3,65.43,508.0,12.6,0
+ANG0236,2025-03-25,CoronariografÃ­a DiagnÃ³stica,64,95.0,66.99,570.3,11.5,1
+ANG0237,2025-12-16,CoronariografÃ­a DiagnÃ³stica,45,65.3,154.91,1070.0,21.2,1
+ANG0238,2025-10-06,AngiografÃ­a Renal,66,90.7,36.09,257.1,9.0,0
+ANG0239,2025-03-14,CoronariografÃ­a DiagnÃ³stica,72,64.9,88.27,636.6,14.9,1
+ANG0240,2025-12-01,CoronariografÃ­a DiagnÃ³stica,64,69.6,53.13,400.8,9.1,0
+ANG0241,2025-06-16,CoronariografÃ­a DiagnÃ³stica,49,75.7,40.22,334.4,7.7,0
+ANG0242,2025-05-06,CoronariografÃ­a DiagnÃ³stica,40,62.0,52.58,415.9,11.1,0
+ANG0243,2025-06-25,AngiografÃ­a Cerebral,82,68.1,93.04,561.4,15.3,0
+ANG0244,2025-03-16,AngiografÃ­a PerifÃ©rica,54,50.0,30.27,212.6,6.4,0
+ANG0245,2025-09-02,CoronariografÃ­a DiagnÃ³stica,67,70.6,65.11,477.8,12.9,0
+ANG0246,2025-10-12,CoronariografÃ­a DiagnÃ³stica,65,51.9,25.05,252.9,1.8,0
+ANG0247,2025-06-14,CoronariografÃ­a DiagnÃ³stica,85,50.0,38.3,281.7,6.4,0
+ANG0248,2025-12-20,CoronariografÃ­a DiagnÃ³stica,72,63.2,36.58,295.4,6.0,0
+ANG0249,2025-01-21,CoronariografÃ­a DiagnÃ³stica,62,82.4,73.1,457.3,12.0,1
+ANG0250,2025-04-21,CoronariografÃ­a DiagnÃ³stica,50,67.2,61.46,505.0,11.9,0
+ANG0251,2025-12-04,CoronariografÃ­a DiagnÃ³stica,73,104.4,28.03,271.2,4.8,0
+ANG0252,2025-05-25,AngiografÃ­a Renal,54,82.9,47.49,378.4,9.6,0
+ANG0253,2025-12-20,AngiografÃ­a PerifÃ©rica,63,101.5,49.32,409.0,9.1,0
+ANG0254,2025-02-15,AngiografÃ­a PerifÃ©rica,70,75.3,77.75,595.7,14.5,0
+ANG0255,2025-03-11,CoronariografÃ­a DiagnÃ³stica,44,93.9,32.3,242.8,5.2,0
+ANG0256,2025-07-22,CoronariografÃ­a DiagnÃ³stica,75,71.7,64.47,516.6,11.4,0
+ANG0257,2025-08-07,AngiografÃ­a Cerebral,73,69.9,114.62,939.0,21.7,0
+ANG0258,2025-12-18,AngiografÃ­a Renal,53,63.3,25.77,260.9,8.7,0
+ANG0259,2025-01-22,AngiografÃ­a Renal,71,89.2,29.61,265.2,6.0,0
+ANG0260,2025-07-13,CoronariografÃ­a DiagnÃ³stica,48,93.2,32.83,350.3,6.5,0
+ANG0261,2025-06-12,AngiografÃ­a Aorta Abdominal,59,87.8,140.32,1229.0,24.6,0
+ANG0262,2025-07-07,AngiografÃ­a Cerebral,50,92.8,130.91,932.7,23.6,0
+ANG0263,2025-04-14,CoronariografÃ­a DiagnÃ³stica,77,64.6,73.11,491.9,15.6,1
+ANG0264,2025-06-22,CoronariografÃ­a DiagnÃ³stica,69,64.3,55.6,407.4,10.6,0
+ANG0265,2025-12-24,CoronariografÃ­a DiagnÃ³stica,45,63.6,34.28,241.9,7.8,0
+ANG0266,2025-08-09,AngiografÃ­a PerifÃ©rica,57,92.3,65.75,411.1,13.8,0
+ANG0267,2025-09-26,AngiografÃ­a PerifÃ©rica,40,93.0,39.54,346.9,9.0,0
+ANG0268,2025-03-15,CoronariografÃ­a DiagnÃ³stica,72,102.0,82.54,621.0,12.8,1
+ANG0269,2025-01-14,AngiografÃ­a Cerebral,37,71.7,58.15,359.7,7.5,0
+ANG0270,2025-02-28,CoronariografÃ­a DiagnÃ³stica,63,63.9,70.85,441.8,11.8,1
+ANG0271,2025-12-04,AngiografÃ­a Cerebral,65,87.2,70.57,387.2,14.3,0
+ANG0272,2025-08-02,CoronariografÃ­a DiagnÃ³stica,71,70.1,51.37,443.4,7.6,0
+ANG0273,2025-06-06,AngiografÃ­a Renal,58,59.2,46.14,405.5,7.6,0
+ANG0274,2025-02-25,CoronariografÃ­a DiagnÃ³stica,50,74.0,114.23,900.0,16.2,1
+ANG0275,2025-04-30,AngiografÃ­a Cerebral,47,81.2,121.86,811.1,17.4,0
+ANG0276,2025-01-11,CoronariografÃ­a DiagnÃ³stica,53,76.3,52.33,378.3,8.6,0
+ANG0277,2025-07-30,CoronariografÃ­a DiagnÃ³stica,57,77.1,57.38,436.4,5.4,0
+ANG0278,2025-10-30,AngiografÃ­a Cerebral,58,79.3,65.13,470.4,12.4,0
+ANG0279,2025-08-17,CoronariografÃ­a DiagnÃ³stica,65,79.5,63.02,423.9,12.4,0
+ANG0280,2025-04-10,AngiografÃ­a PerifÃ©rica,59,89.6,118.95,812.8,21.1,1
+ANG0281,2025-09-20,AngiografÃ­a Cerebral,62,66.2,81.32,778.9,11.2,0
+ANG0282,2025-08-23,AngiografÃ­a PerifÃ©rica,61,66.8,53.92,425.2,9.1,0
+ANG0283,2025-02-13,CoronariografÃ­a DiagnÃ³stica,64,65.5,54.53,414.6,10.3,0
+ANG0284,2025-05-18,CoronariografÃ­a DiagnÃ³stica,70,84.9,42.55,388.8,6.2,0
+ANG0285,2025-08-16,CoronariografÃ­a DiagnÃ³stica,60,67.7,42.67,421.9,6.3,0
+ANG0286,2025-04-02,AngiografÃ­a Aorta Abdominal,57,71.4,120.46,1122.4,17.7,0
+ANG0287,2025-01-07,CoronariografÃ­a DiagnÃ³stica,49,53.0,51.59,406.5,9.3,0
+ANG0288,2025-08-05,CoronariografÃ­a DiagnÃ³stica,64,61.0,35.86,314.4,6.9,0
+ANG0289,2025-08-14,CoronariografÃ­a DiagnÃ³stica,78,73.4,35.41,293.9,7.5,0
+ANG0290,2025-01-28,AngiografÃ­a Renal,56,64.9,55.84,457.5,16.2,1
+ANG0291,2025-01-26,AngiografÃ­a Renal,49,88.0,63.2,475.0,15.7,1
+ANG0292,2025-11-17,AngiografÃ­a PerifÃ©rica,47,84.6,52.16,394.7,7.0,0
+ANG0293,2025-02-16,AngiografÃ­a Cerebral,60,69.3,116.44,829.8,13.7,0
+ANG0294,2025-09-05,AngiografÃ­a Cerebral,57,50.9,103.29,919.0,16.6,0
+ANG0295,2025-10-21,CoronariografÃ­a DiagnÃ³stica,48,77.9,130.66,855.0,20.7,1
+ANG0296,2025-08-23,AngiografÃ­a Cerebral,72,62.4,114.0,797.4,18.6,0
+ANG0297,2025-12-17,AngiografÃ­a Renal,56,80.0,34.67,208.1,7.6,0
+ANG0298,2025-06-03,CoronariografÃ­a DiagnÃ³stica,63,62.7,85.4,588.4,16.6,1
+ANG0299,2025-12-02,CoronariografÃ­a DiagnÃ³stica,61,56.4,31.52,311.0,8.3,0
+ANG0300,2025-07-06,CoronariografÃ­a DiagnÃ³stica,73,79.6,76.14,590.9,13.6,1
+ANG0301,2025-06-05,AngiografÃ­a Cerebral,66,56.0,69.34,421.9,13.4,0
+ANG0302,2025-04-01,CoronariografÃ­a DiagnÃ³stica,69,62.3,33.56,327.3,6.0,0
+ANG0303,2025-06-22,AngiografÃ­a Cerebral,53,65.3,133.05,896.3,18.7,0
+ANG0304,2025-04-27,CoronariografÃ­a DiagnÃ³stica,75,50.0,39.9,387.5,4.2,0
+ANG0305,2025-03-23,AngiografÃ­a Aorta Abdominal,51,86.0,110.74,800.8,17.6,0
+ANG0306,2025-08-09,AngiografÃ­a Renal,65,100.3,33.09,183.2,12.0,0
+ANG0307,2025-03-17,CoronariografÃ­a DiagnÃ³stica,53,89.4,67.5,495.9,13.7,1
+ANG0308,2025-12-28,AngiografÃ­a Cerebral,52,76.7,148.25,945.3,20.4,1
+ANG0309,2025-05-27,AngiografÃ­a Renal,49,76.3,22.49,261.4,7.8,0
+ANG0310,2025-07-14,AngiografÃ­a Cerebral,53,65.2,164.53,1111.9,28.9,1
+ANG0311,2025-06-30,AngiografÃ­a Cerebral,50,50.0,129.84,655.6,18.0,0
+ANG0312,2025-11-13,AngiografÃ­a Cerebral,44,89.9,88.26,741.7,11.9,0
+ANG0313,2025-08-27,AngiografÃ­a Cerebral,77,67.8,139.81,976.6,19.9,1
+ANG0314,2025-07-25,AngiografÃ­a Aorta Abdominal,73,69.6,74.51,759.7,11.5,0
+ANG0315,2025-11-06,CoronariografÃ­a DiagnÃ³stica,79,89.7,49.83,352.2,7.4,0
+ANG0316,2025-09-12,AngiografÃ­a Cerebral,64,50.0,100.9,685.9,23.2,0
+ANG0317,2025-09-30,CoronariografÃ­a DiagnÃ³stica,46,86.9,73.39,589.3,12.3,1
+ANG0318,2025-08-05,CoronariografÃ­a DiagnÃ³stica,52,56.9,44.35,342.0,8.3,0
+ANG0319,2025-06-16,AngiografÃ­a Aorta Abdominal,60,89.1,92.43,735.0,13.2,0
+ANG0320,2025-12-03,CoronariografÃ­a DiagnÃ³stica,66,90.9,72.34,573.9,12.3,1
+ANG0321,2025-03-06,CoronariografÃ­a DiagnÃ³stica,60,50.0,16.54,177.0,3.2,0
+ANG0322,2025-03-19,CoronariografÃ­a DiagnÃ³stica,64,52.2,41.06,377.7,8.4,0
+ANG0323,2025-06-17,CoronariografÃ­a DiagnÃ³stica,62,65.1,65.17,515.5,11.8,0
+ANG0324,2025-05-27,AngiografÃ­a Cerebral,51,60.1,83.7,506.8,10.9,0
+ANG0325,2025-01-22,AngiografÃ­a Aorta Abdominal,76,84.3,151.96,1040.1,29.0,1
+ANG0326,2025-03-24,AngiografÃ­a Cerebral,61,54.8,129.36,854.1,18.9,0
+ANG0327,2025-01-12,CoronariografÃ­a DiagnÃ³stica,51,58.5,82.93,538.3,15.6,1
+ANG0328,2025-11-30,AngiografÃ­a Cerebral,46,53.5,124.49,798.1,18.8,0
+ANG0329,2025-01-19,AngiografÃ­a Aorta Abdominal,59,78.2,86.72,591.3,13.8,0
+ANG0330,2025-08-03,CoronariografÃ­a DiagnÃ³stica,65,97.8,38.66,303.0,6.3,0
+ANG0331,2025-12-04,AngiografÃ­a Aorta Abdominal,64,71.0,132.16,1082.6,17.2,0
+ANG0332,2025-08-07,CoronariografÃ­a DiagnÃ³stica,64,63.0,48.78,404.5,12.5,0
+ANG0333,2025-10-18,AngiografÃ­a Aorta Abdominal,54,59.9,121.32,1009.6,17.9,0
+ANG0334,2025-06-06,AngiografÃ­a Cerebral,60,101.5,71.5,453.6,12.0,0
+ANG0335,2025-11-18,CoronariografÃ­a DiagnÃ³stica,73,90.2,24.1,266.2,6.0,0
+ANG0336,2025-03-06,CoronariografÃ­a DiagnÃ³stica,46,73.0,30.9,201.6,6.8,0
+ANG0337,2025-02-17,AngiografÃ­a Aorta Abdominal,49,96.5,117.64,909.0,22.3,0
+ANG0338,2025-05-17,AngiografÃ­a Cerebral,55,83.6,92.36,768.4,14.1,0
+ANG0339,2025-04-16,AngiografÃ­a PerifÃ©rica,50,85.5,57.35,575.2,10.1,0
+ANG0340,2025-09-01,AngiografÃ­a Cerebral,73,79.7,103.52,582.9,15.3,0
+ANG0341,2025-04-03,AngiografÃ­a Cerebral,30,83.7,231.24,1565.1,31.2,1
+ANG0342,2025-02-08,CoronariografÃ­a DiagnÃ³stica,68,79.4,43.32,310.0,6.7,0
+ANG0343,2025-03-10,CoronariografÃ­a DiagnÃ³stica,52,50.0,58.71,384.7,7.3,0
+ANG0344,2025-05-18,CoronariografÃ­a DiagnÃ³stica,74,70.9,70.93,442.7,11.8,1
+ANG0345,2025-06-23,CoronariografÃ­a DiagnÃ³stica,65,50.0,73.62,513.8,10.1,1
+ANG0346,2025-04-17,CoronariografÃ­a DiagnÃ³stica,58,50.0,54.37,462.7,9.0,0
+ANG0347,2025-05-17,AngiografÃ­a Cerebral,70,71.4,153.12,1076.7,33.2,1
+ANG0348,2025-04-17,AngiografÃ­a Renal,55,66.8,61.96,446.5,14.5,1
+ANG0349,2025-09-17,CoronariografÃ­a DiagnÃ³stica,45,99.4,39.02,318.5,6.1,0
+ANG0350,2025-01-03,AngiografÃ­a Renal,43,101.2,26.5,194.5,6.3,0
+ANG0351,2025-05-13,CoronariografÃ­a DiagnÃ³stica,70,89.4,43.81,414.8,7.7,0
+ANG0352,2025-08-22,CoronariografÃ­a DiagnÃ³stica,69,50.0,60.6,516.1,9.6,0
+ANG0353,2025-06-02,AngiografÃ­a PerifÃ©rica,54,83.5,74.6,598.5,11.7,0
+ANG0354,2025-11-10,CoronariografÃ­a DiagnÃ³stica,76,71.6,33.07,289.0,11.1,0
+ANG0355,2025-05-30,CoronariografÃ­a DiagnÃ³stica,76,76.6,41.65,377.3,3.8,0
+ANG0356,2025-08-02,CoronariografÃ­a DiagnÃ³stica,51,69.5,21.5,281.9,3.5,0
+ANG0357,2025-04-22,CoronariografÃ­a DiagnÃ³stica,63,101.2,42.45,363.9,6.4,0
+ANG0358,2025-06-11,CoronariografÃ­a DiagnÃ³stica,59,111.4,58.01,378.7,9.1,0
+ANG0359,2025-06-01,CoronariografÃ­a DiagnÃ³stica,72,106.3,23.98,126.5,7.9,0
+ANG0360,2025-06-24,CoronariografÃ­a DiagnÃ³stica,65,63.6,63.74,511.3,7.7,0
+ANG0361,2025-04-03,CoronariografÃ­a DiagnÃ³stica,51,76.3,32.02,285.9,4.7,0
+ANG0362,2025-10-09,AngiografÃ­a Cerebral,52,59.7,96.4,758.3,19.0,0
+ANG0363,2025-11-10,CoronariografÃ­a DiagnÃ³stica,35,78.9,47.05,335.8,11.6,0
+ANG0364,2025-10-09,AngiografÃ­a Cerebral,70,79.2,210.58,1422.9,32.4,1
+ANG0365,2025-12-02,CoronariografÃ­a DiagnÃ³stica,58,70.9,53.93,330.1,11.5,0
+ANG0366,2025-09-28,CoronariografÃ­a DiagnÃ³stica,62,63.0,46.68,432.5,7.6,0
+ANG0368,2025-03-23,CoronariografÃ­a DiagnÃ³stica,62,93.0,38.71,225.0,8.1,0
+ANG0369,2025-12-05,CoronariografÃ­a DiagnÃ³stica,63,70.8,94.41,730.1,13.1,1
+ANG0370,2025-11-27,AngiografÃ­a PerifÃ©rica,43,94.3,89.51,648.3,21.8,1
+ANG0371,2025-12-14,CoronariografÃ­a DiagnÃ³stica,54,78.7,23.21,304.5,6.7,0
+ANG0372,2025-11-14,AngiografÃ­a Aorta Abdominal,85,76.3,214.27,1714.9,30.0,1
+ANG0373,2025-07-11,CoronariografÃ­a DiagnÃ³stica,53,97.6,28.01,311.2,3.8,0
+ANG0374,2025-08-03,CoronariografÃ­a DiagnÃ³stica,58,56.1,114.63,851.2,19.1,1
+ANG0375,2025-09-02,CoronariografÃ­a DiagnÃ³stica,51,81.0,105.93,756.1,15.8,1
+ANG0376,2025-02-28,AngiografÃ­a Aorta Abdominal,57,80.8,61.54,698.4,15.6,0
+ANG0377,2025-12-02,AngiografÃ­a Cerebral,60,67.8,160.3,1041.0,27.7,1
+ANG0378,2025-03-03,CoronariografÃ­a DiagnÃ³stica,67,58.6,70.86,541.2,12.8,1
+ANG0379,2025-05-09,AngiografÃ­a Renal,74,76.7,18.9,161.8,7.8,0
+ANG0380,2025-03-15,AngiografÃ­a PerifÃ©rica,65,90.7,73.79,599.7,16.3,0
+ANG0381,2025-11-22,CoronariografÃ­a DiagnÃ³stica,68,85.5,36.25,324.1,6.5,0
+ANG0382,2025-01-22,CoronariografÃ­a DiagnÃ³stica,47,80.2,24.21,225.8,4.5,0
+ANG0383,2025-08-05,AngiografÃ­a PerifÃ©rica,68,70.6,47.0,415.9,8.6,0
+ANG0384,2025-06-25,CoronariografÃ­a DiagnÃ³stica,63,111.7,28.69,197.8,3.8,0
+ANG0385,2025-10-18,CoronariografÃ­a DiagnÃ³stica,61,73.0,55.55,501.3,11.4,0
+ANG0386,2025-10-18,AngiografÃ­a Renal,37,78.6,52.28,364.3,11.8,0
+ANG0387,2025-09-13,AngiografÃ­a Cerebral,71,105.3,147.15,1030.3,27.5,1
+ANG0388,2025-03-02,CoronariografÃ­a DiagnÃ³stica,79,95.2,68.09,472.6,12.1,1
+ANG0389,2025-06-02,AngiografÃ­a Renal,62,54.0,49.6,286.5,13.3,0
+ANG0390,2025-01-14,AngiografÃ­a Aorta Abdominal,74,74.0,80.78,867.5,19.3,0
+ANG0391,2025-07-29,CoronariografÃ­a DiagnÃ³stica,56,77.3,51.88,408.6,9.2,0
+ANG0392,2025-11-17,CoronariografÃ­a DiagnÃ³stica,54,93.5,100.32,757.3,14.9,1
+ANG0393,2025-08-02,AngiografÃ­a Aorta Abdominal,50,108.5,101.07,691.0,24.7,0
+ANG0394,2025-06-15,CoronariografÃ­a DiagnÃ³stica,57,60.3,183.24,1228.6,28.1,1
+ANG0395,2025-10-20,AngiografÃ­a Cerebral,63,90.6,102.67,699.0,17.1,0
+ANG0396,2025-05-28,CoronariografÃ­a DiagnÃ³stica,53,73.9,39.39,332.2,6.0,0
+ANG0397,2025-04-26,CoronariografÃ­a DiagnÃ³stica,70,58.8,48.88,512.8,10.6,0
+ANG0398,2025-09-13,CoronariografÃ­a DiagnÃ³stica,56,79.3,49.6,449.7,8.5,0
+ANG0399,2025-08-10,AngiografÃ­a Aorta Abdominal,61,62.0,42.43,276.2,12.5,0
+ANG0400,2025-01-11,AngiografÃ­a Renal,60,69.1,77.96,567.0,15.3,1
+ANG0401,2025-02-19,CoronariografÃ­a DiagnÃ³stica,57,70.7,42.91,334.1,7.6,0
+ANG0402,2025-02-25,AngiografÃ­a Cerebral,64,68.8,76.31,448.6,14.7,0
+ANG0403,2025-02-25,AngiografÃ­a Cerebral,53,66.3,176.56,1073.9,25.5,1
+ANG0404,2025-06-15,AngiografÃ­a Cerebral,62,74.5,64.71,547.7,6.0,0
+ANG0405,2025-04-06,AngiografÃ­a Cerebral,57,56.7,69.03,614.6,12.3,0
+ANG0406,2025-03-06,AngiografÃ­a Aorta Abdominal,63,50.0,91.32,632.4,8.1,0
+ANG0408,2025-06-16,CoronariografÃ­a DiagnÃ³stica,42,97.8,56.13,308.4,12.9,0
+ANG0409,2025-07-20,CoronariografÃ­a DiagnÃ³stica,30,53.0,39.87,376.9,6.9,0
+ANG0410,2025-10-22,AngiografÃ­a Cerebral,71,98.4,83.92,589.5,13.1,0
+ANG0411,2025-12-03,AngiografÃ­a Cerebral,58,95.2,99.14,866.0,15.3,0
+ANG0412,2025-02-08,AngiografÃ­a Renal,70,76.4,45.37,322.5,10.4,0
+ANG0413,2025-04-30,AngiografÃ­a PerifÃ©rica,52,62.4,44.17,324.1,8.5,0
+ANG0414,2025-07-19,CoronariografÃ­a DiagnÃ³stica,70,50.0,72.17,507.1,13.4,1
+ANG0415,2025-09-13,AngiografÃ­a PerifÃ©rica,61,62.3,69.44,555.5,15.0,0
+ANG0416,2025-10-14,AngiografÃ­a Aorta Abdominal,54,81.1,95.1,704.6,13.8,0
+ANG0417,2025-01-13,AngiografÃ­a Aorta Abdominal,79,99.9,102.6,797.9,15.2,0
+ANG0418,2025-09-30,AngiografÃ­a PerifÃ©rica,49,60.0,40.82,378.0,9.6,0
+ANG0419,2025-04-21,AngiografÃ­a Cerebral,57,88.3,195.2,1274.9,29.0,1
+ANG0420,2025-07-29,CoronariografÃ­a DiagnÃ³stica,49,103.3,50.58,388.6,9.9,0
+ANG0421,2025-08-26,CoronariografÃ­a DiagnÃ³stica,58,80.7,51.06,295.0,10.2,0
+ANG0422,2025-07-21,AngiografÃ­a Aorta Abdominal,67,68.5,127.63,859.3,24.3,0
+ANG0423,2025-11-09,AngiografÃ­a Cerebral,73,71.7,47.03,358.0,9.7,0
+ANG0424,2025-03-13,AngiografÃ­a Cerebral,46,78.4,118.35,706.5,20.1,0
+ANG0425,2025-05-19,CoronariografÃ­a DiagnÃ³stica,81,88.0,54.22,350.9,9.7,0
+ANG0426,2025-02-25,CoronariografÃ­a DiagnÃ³stica,64,65.4,44.63,433.4,8.2,0
+ANG0427,2025-08-15,CoronariografÃ­a DiagnÃ³stica,45,65.1,27.99,196.7,5.7,0
+ANG0428,2025-09-30,CoronariografÃ­a DiagnÃ³stica,57,58.6,60.95,509.7,8.0,0
+ANG0429,2025-10-20,AngiografÃ­a Cerebral,62,83.0,61.44,383.1,13.9,0
+ANG0431,2025-07-03,CoronariografÃ­a DiagnÃ³stica,45,69.1,74.23,532.1,13.4,1
+ANG0432,2025-05-17,CoronariografÃ­a DiagnÃ³stica,60,87.0,31.17,224.0,4.0,0
+ANG0434,2025-12-26,AngiografÃ­a Cerebral,68,88.0,102.44,778.3,18.6,0
+ANG0435,2025-04-23,CoronariografÃ­a DiagnÃ³stica,52,101.2,72.17,529.7,13.9,1
+ANG0436,2025-05-09,CoronariografÃ­a DiagnÃ³stica,50,100.1,39.67,331.5,8.2,0
+ANG0437,2025-12-06,CoronariografÃ­a DiagnÃ³stica,64,100.7,46.7,279.7,9.6,0
+ANG0438,2025-10-29,CoronariografÃ­a DiagnÃ³stica,45,92.3,106.53,691.5,15.3,1
+ANG0440,2025-05-31,AngiografÃ­a Cerebral,74,63.9,201.46,1394.2,30.3,1
+ANG0441,2025-07-19,CoronariografÃ­a DiagnÃ³stica,66,82.6,51.87,360.7,7.4,0
+ANG0442,2025-08-25,AngiografÃ­a Cerebral,56,53.6,116.08,826.9,19.2,0
+ANG0443,2025-12-26,AngiografÃ­a Renal,57,71.8,27.3,234.9,8.0,0
+ANG0444,2025-08-08,AngiografÃ­a Aorta Abdominal,51,74.0,136.12,1049.5,22.0,0
+ANG0445,2025-02-21,AngiografÃ­a Cerebral,58,68.0,58.36,476.0,12.4,0
+ANG0446,2025-12-01,AngiografÃ­a Cerebral,61,73.6,173.12,1039.0,21.9,1
+ANG0447,2025-06-24,AngiografÃ­a Cerebral,59,65.5,107.97,732.5,19.4,0
+ANG0448,2025-06-12,CoronariografÃ­a DiagnÃ³stica,59,66.7,27.16,264.8,6.1,0
+ANG0449,2025-10-10,AngiografÃ­a Aorta Abdominal,57,88.5,85.49,775.2,22.3,0
+ANG0450,2025-10-30,AngiografÃ­a Aorta Abdominal,49,50.0,80.58,770.0,11.5,0
+ANG0451,2025-05-26,AngiografÃ­a Cerebral,65,71.8,77.85,626.0,13.4,0
+ANG0452,2025-03-04,AngiografÃ­a PerifÃ©rica,40,77.7,72.16,531.6,13.0,0
+ANG0453,2025-04-10,CoronariografÃ­a DiagnÃ³stica,66,77.5,45.62,349.6,9.6,0
+ANG0454,2025-02-19,CoronariografÃ­a DiagnÃ³stica,60,70.7,34.07,372.8,5.1,0
+ANG0456,2025-09-16,AngiografÃ­a Cerebral,60,75.2,46.54,415.9,8.1,0
+ANG0457,2025-12-30,AngiografÃ­a PerifÃ©rica,62,85.4,32.83,386.0,8.3,0
+ANG0458,2025-07-16,AngiografÃ­a Aorta Abdominal,82,67.7,208.15,1741.6,31.8,1
+ANG0459,2025-05-31,CoronariografÃ­a DiagnÃ³stica,63,93.8,43.36,406.7,9.0,0
+ANG0460,2025-10-15,CoronariografÃ­a DiagnÃ³stica,59,51.5,40.04,241.6,7.9,0
+ANG0461,2025-07-21,CoronariografÃ­a DiagnÃ³stica,43,86.4,46.06,387.8,6.8,0
+ANG0462,2025-08-02,CoronariografÃ­a DiagnÃ³stica,74,71.4,84.27,606.9,12.3,1
+ANG0463,2025-09-04,AngiografÃ­a Cerebral,58,70.0,169.75,1239.2,27.0,1
+ANG0464,2025-06-24,AngiografÃ­a Renal,39,73.4,12.36,139.5,2.3,0
+ANG0465,2025-01-25,CoronariografÃ­a DiagnÃ³stica,68,88.0,30.0,323.3,5.1,0
+ANG0466,2025-09-23,CoronariografÃ­a DiagnÃ³stica,52,69.4,38.45,286.8,6.9,0
+ANG0467,2025-11-27,CoronariografÃ­a DiagnÃ³stica,60,74.6,58.03,480.3,8.2,0
+ANG0468,2025-10-25,CoronariografÃ­a DiagnÃ³stica,53,50.0,92.32,678.0,15.8,1
+ANG0469,2025-11-11,AngiografÃ­a Cerebral,85,94.5,73.74,585.3,8.4,0
+ANG0470,2025-01-12,AngiografÃ­a Cerebral,58,57.6,82.6,538.9,10.6,0
+ANG0471,2025-10-19,CoronariografÃ­a DiagnÃ³stica,60,61.6,69.38,504.5,7.0,1
+ANG0472,2025-07-14,CoronariografÃ­a DiagnÃ³stica,58,104.1,44.83,286.7,8.5,0
+ANG0473,2025-01-21,AngiografÃ­a Renal,64,85.7,38.86,301.3,8.2,0
+ANG0474,2025-08-12,CoronariografÃ­a DiagnÃ³stica,48,69.2,51.44,398.2,8.3,0
+ANG0475,2025-02-03,CoronariografÃ­a DiagnÃ³stica,67,57.9,60.35,446.4,9.8,0
+ANG0476,2025-08-19,AngiografÃ­a Renal,64,79.6,29.23,257.0,8.6,0
+ANG0477,2025-05-28,AngiografÃ­a Renal,69,82.8,25.49,204.3,5.6,0
+ANG0478,2025-11-20,AngiografÃ­a Renal,74,69.3,38.26,332.1,12.0,0
+ANG0479,2025-12-07,AngiografÃ­a Cerebral,52,85.7,266.83,1675.5,34.3,1
+ANG0480,2025-11-12,AngiografÃ­a Cerebral,33,75.1,246.19,1595.2,36.2,1
+ANG0481,2025-04-17,AngiografÃ­a Cerebral,49,69.1,104.83,661.7,11.8,0
+ANG0482,2025-07-28,CoronariografÃ­a DiagnÃ³stica,63,60.7,35.7,259.6,8.0,0
+ANG0483,2025-10-07,CoronariografÃ­a DiagnÃ³stica,54,75.3,38.23,301.3,5.4,0
+ANG0484,2025-04-06,CoronariografÃ­a DiagnÃ³stica,58,85.9,30.49,293.7,3.8,0
+ANG0485,2025-12-27,AngiografÃ­a Cerebral,41,86.5,56.07,498.1,11.3,0
+ANG0486,2025-10-10,CoronariografÃ­a DiagnÃ³stica,55,62.3,82.92,651.8,13.6,1
+ANG0487,2025-03-14,CoronariografÃ­a DiagnÃ³stica,58,74.7,44.26,339.1,8.1,0
+ANG0488,2025-11-17,CoronariografÃ­a DiagnÃ³stica,59,92.9,71.81,652.6,11.8,1
+ANG0489,2025-02-26,CoronariografÃ­a DiagnÃ³stica,63,89.1,48.26,523.7,5.9,0
+ANG0490,2025-05-08,AngiografÃ­a Cerebral,71,88.2,130.53,978.9,18.8,0
+ANG0491,2025-05-28,AngiografÃ­a PerifÃ©rica,58,78.8,77.71,512.1,17.9,0
+ANG0492,2025-07-25,AngiografÃ­a Cerebral,80,61.4,161.53,1149.6,30.4,1
+ANG0493,2025-07-18,AngiografÃ­a Aorta Abdominal,67,71.4,106.23,997.1,11.2,0
+ANG0494,2025-10-10,CoronariografÃ­a DiagnÃ³stica,61,98.0,36.01,281.2,7.2,0
+ANG0495,2025-12-19,CoronariografÃ­a DiagnÃ³stica,50,77.7,50.66,443.5,8.2,0
+ANG0496,2025-11-21,CoronariografÃ­a DiagnÃ³stica,73,54.2,37.0,292.5,5.9,0
+ANG0497,2025-12-09,CoronariografÃ­a DiagnÃ³stica,61,79.9,46.14,415.9,7.8,0
+ANG0498,2025-05-09,CoronariografÃ­a DiagnÃ³stica,42,100.1,31.74,214.3,7.9,0
+ANG0499,2025-06-10,AngiografÃ­a PerifÃ©rica,48,79.9,126.08,949.5,25.5,1
+ANG0500,2025-09-17,AngiografÃ­a PerifÃ©rica,69,76.8,53.71,490.4,12.9,0
+ANG0501,2025-02-21,AngiografÃ­a Aorta Abdominal,80,74.4,77.55,595.1,19.1,0
+ANG0502,2025-04-25,CoronariografÃ­a DiagnÃ³stica,85,113.3,36.24,259.2,6.9,0
+ANG0503,2025-07-30,CoronariografÃ­a DiagnÃ³stica,54,74.3,46.47,361.6,8.3,0
+ANG0504,2025-10-02,AngiografÃ­a Renal,66,58.6,61.27,500.4,11.4,1
+ANG0505,2025-03-06,AngiografÃ­a PerifÃ©rica,60,81.2,42.39,416.9,9.5,0
+ANG0506,2025-11-05,AngiografÃ­a Renal,65,69.4,39.15,345.3,11.9,0
+ANG0507,2025-04-26,AngiografÃ­a Aorta Abdominal,54,99.4,96.16,1029.2,19.6,0
+ANG0508,2025-08-03,CoronariografÃ­a DiagnÃ³stica,60,65.2,75.73,474.8,14.1,1
+ANG0510,2025-08-05,AngiografÃ­a Aorta Abdominal,76,50.0,57.96,457.4,19.0,0
+ANG0511,2025-09-01,CoronariografÃ­a DiagnÃ³stica,52,50.0,95.89,670.9,15.1,1
+ANG0512,2025-11-26,AngiografÃ­a Cerebral,53,111.7,74.32,386.2,17.2,0
+ANG0513,2025-11-04,CoronariografÃ­a DiagnÃ³stica,53,67.4,43.93,356.6,10.3,0
+ANG0514,2025-09-17,CoronariografÃ­a DiagnÃ³stica,71,107.5,80.81,609.6,15.0,1
+ANG0515,2025-09-10,CoronariografÃ­a DiagnÃ³stica,53,59.6,114.58,841.2,16.6,1
+ANG0516,2025-06-05,AngiografÃ­a Aorta Abdominal,68,63.4,89.33,744.1,12.1,0
+ANG0517,2025-09-17,CoronariografÃ­a DiagnÃ³stica,66,110.4,41.57,239.3,5.3,0
+ANG0518,2025-10-05,CoronariografÃ­a DiagnÃ³stica,62,109.1,40.22,352.3,8.3,0
+ANG0519,2025-06-30,AngiografÃ­a Renal,64,59.7,26.92,156.0,9.9,0
+ANG0520,2025-01-19,CoronariografÃ­a DiagnÃ³stica,66,114.5,60.57,473.2,11.1,0
+ANG0521,2025-02-02,CoronariografÃ­a DiagnÃ³stica,65,67.7,24.4,279.5,5.6,0
+ANG0522,2025-04-27,AngiografÃ­a Aorta Abdominal,48,104.9,74.23,593.9,13.6,0
+ANG0523,2025-09-16,AngiografÃ­a PerifÃ©rica,57,54.7,68.29,532.9,12.8,0
+ANG0524,2025-01-11,CoronariografÃ­a DiagnÃ³stica,66,79.9,81.44,659.8,12.6,1
+ANG0525,2025-01-22,CoronariografÃ­a DiagnÃ³stica,37,52.3,45.72,370.8,7.8,0
+ANG0526,2025-09-22,AngiografÃ­a Cerebral,57,82.5,122.6,922.7,17.7,0
+ANG0527,2025-09-08,AngiografÃ­a PerifÃ©rica,52,78.5,33.62,273.7,6.8,0
+ANG0528,2025-02-04,CoronariografÃ­a DiagnÃ³stica,56,73.1,37.56,165.3,10.2,0
+ANG0529,2025-01-08,AngiografÃ­a Cerebral,55,77.8,68.34,517.5,12.3,0
+ANG0530,2025-11-29,CoronariografÃ­a DiagnÃ³stica,54,67.3,41.69,206.7,9.7,0
+ANG0531,2025-09-23,AngiografÃ­a Cerebral,52,71.7,91.15,648.9,15.1,0
+ANG0532,2025-10-06,CoronariografÃ­a DiagnÃ³stica,51,89.7,19.11,244.1,6.4,0
+ANG0533,2025-06-04,AngiografÃ­a Cerebral,51,96.8,146.22,1164.1,24.1,1
+ANG0534,2025-04-04,CoronariografÃ­a DiagnÃ³stica,62,55.7,47.22,381.6,7.5,0
+ANG0535,2025-12-04,AngiografÃ­a PerifÃ©rica,66,104.0,83.6,618.6,15.8,1
+ANG0536,2025-09-06,CoronariografÃ­a DiagnÃ³stica,58,89.9,57.8,504.6,8.2,0
+ANG0537,2025-01-14,CoronariografÃ­a DiagnÃ³stica,57,83.9,24.61,139.5,4.1,0
+ANG0538,2025-08-08,CoronariografÃ­a DiagnÃ³stica,72,100.7,22.35,230.2,5.4,0
+ANG0539,2025-09-10,AngiografÃ­a Aorta Abdominal,68,86.8,278.95,2062.4,45.9,1
+ANG0540,2025-05-30,CoronariografÃ­a DiagnÃ³stica,81,81.0,33.41,233.0,5.9,0
+ANG0541,2025-08-24,CoronariografÃ­a DiagnÃ³stica,67,99.5,30.45,253.7,3.1,0
+ANG0542,2025-04-25,CoronariografÃ­a DiagnÃ³stica,51,72.0,118.62,761.0,17.3,1
+ANG0543,2025-05-26,CoronariografÃ­a DiagnÃ³stica,50,79.0,147.75,979.0,21.1,1
+ANG0544,2025-10-30,AngiografÃ­a Cerebral,62,74.3,88.35,670.0,18.9,0
+ANG0545,2025-05-14,CoronariografÃ­a DiagnÃ³stica,73,62.7,27.19,222.5,3.7,0
+ANG0546,2025-06-26,AngiografÃ­a Renal,56,69.0,31.84,343.3,5.5,0
+ANG0547,2025-01-25,AngiografÃ­a Cerebral,47,50.0,86.71,658.9,13.6,0
+ANG0548,2025-11-18,AngiografÃ­a PerifÃ©rica,52,61.6,56.41,491.8,16.4,0
+ANG0549,2025-12-10,AngiografÃ­a Cerebral,70,75.8,105.38,843.5,17.6,0
+ANG0550,2025-07-30,CoronariografÃ­a DiagnÃ³stica,71,52.0,69.28,481.2,9.8,1
+ANG0551,2025-12-02,CoronariografÃ­a DiagnÃ³stica,55,63.8,60.33,371.5,7.8,0
+ANG0552,2025-12-18,AngiografÃ­a Cerebral,82,69.2,113.82,880.5,20.3,0
+ANG0553,2025-09-01,AngiografÃ­a Aorta Abdominal,62,75.6,196.91,1323.9,34.3,1
+ANG0554,2025-04-19,CoronariografÃ­a DiagnÃ³stica,58,73.4,74.32,650.0,13.6,1
+ANG0555,2025-09-15,AngiografÃ­a PerifÃ©rica,49,85.1,67.78,458.9,12.8,0
+ANG0556,2025-04-27,AngiografÃ­a Renal,53,50.0,26.02,313.3,7.5,0
+ANG0557,2025-03-01,CoronariografÃ­a DiagnÃ³stica,67,77.8,74.49,522.2,13.7,1
+ANG0558,2025-10-03,CoronariografÃ­a DiagnÃ³stica,72,60.2,42.39,401.7,9.1,0
+ANG0559,2025-12-25,CoronariografÃ­a DiagnÃ³stica,75,87.2,31.07,248.4,4.9,0
+ANG0560,2025-11-21,CoronariografÃ­a DiagnÃ³stica,51,67.5,25.81,190.6,4.2,0
+ANG0561,2025-05-24,CoronariografÃ­a DiagnÃ³stica,66,81.7,36.47,355.0,5.9,0
+ANG0562,2025-12-24,AngiografÃ­a Renal,61,72.1,43.09,344.3,10.9,0
+ANG0563,2025-08-20,AngiografÃ­a PerifÃ©rica,55,112.6,82.28,617.9,16.7,1
+ANG0564,2025-02-05,AngiografÃ­a Aorta Abdominal,69,81.7,74.45,686.7,15.5,0
+ANG0565,2025-12-03,CoronariografÃ­a DiagnÃ³stica,50,85.8,33.8,232.7,6.4,0
+ANG0566,2025-06-25,CoronariografÃ­a DiagnÃ³stica,60,92.9,27.68,280.5,6.4,0
+ANG0567,2025-10-03,AngiografÃ­a Aorta Abdominal,75,64.4,76.79,707.1,19.1,0
+ANG0568,2025-09-03,CoronariografÃ­a DiagnÃ³stica,76,86.9,39.84,352.2,8.9,0
+ANG0569,2025-06-27,CoronariografÃ­a DiagnÃ³stica,76,50.0,43.41,253.6,6.6,0
+ANG0570,2025-09-10,AngiografÃ­a Renal,30,63.3,34.67,211.0,10.8,0
+ANG0571,2025-12-01,CoronariografÃ­a DiagnÃ³stica,59,66.3,40.57,356.2,8.9,0
+ANG0572,2025-12-27,CoronariografÃ­a DiagnÃ³stica,76,73.7,50.83,335.2,9.1,0
+ANG0573,2025-03-23,AngiografÃ­a PerifÃ©rica,72,72.6,248.2,1866.7,43.0,1
+ANG0574,2025-03-30,CoronariografÃ­a DiagnÃ³stica,60,51.7,103.03,816.8,16.1,1
+ANG0575,2025-10-18,CoronariografÃ­a DiagnÃ³stica,53,81.0,52.44,436.5,7.8,0
+ANG0576,2025-11-21,AngiografÃ­a Renal,71,91.7,17.42,216.0,5.3,0
+ANG0577,2025-11-18,CoronariografÃ­a DiagnÃ³stica,66,85.2,51.24,387.4,8.8,0
+ANG0578,2025-08-04,AngiografÃ­a Cerebral,67,59.0,66.31,516.1,10.9,0
+ANG0579,2025-06-10,CoronariografÃ­a DiagnÃ³stica,56,79.9,83.04,591.8,12.6,1
+ANG0580,2025-10-22,AngiografÃ­a Cerebral,32,78.0,102.42,790.9,19.9,0
+ANG0581,2025-10-13,CoronariografÃ­a DiagnÃ³stica,59,97.6,47.79,393.2,8.9,0
+ANG0583,2025-05-08,AngiografÃ­a PerifÃ©rica,61,58.3,50.84,322.8,8.8,0
+ANG0584,2025-07-31,AngiografÃ­a PerifÃ©rica,35,84.2,82.81,691.6,16.4,1
+ANG0585,2025-06-07,AngiografÃ­a PerifÃ©rica,58,70.1,36.35,232.8,9.4,0
+ANG0586,2025-10-05,CoronariografÃ­a DiagnÃ³stica,56,60.2,74.05,549.4,10.3,1
+ANG0587,2025-10-04,AngiografÃ­a Cerebral,55,78.3,193.34,1289.0,27.0,1
+ANG0588,2025-12-01,AngiografÃ­a Cerebral,46,69.9,194.22,1440.7,31.3,1
+ANG0589,2025-05-05,CoronariografÃ­a DiagnÃ³stica,74,72.0,30.85,352.6,4.7,0
+ANG0590,2025-02-27,CoronariografÃ­a DiagnÃ³stica,65,71.7,34.69,266.2,6.4,0
+ANG0591,2025-12-01,CoronariografÃ­a DiagnÃ³stica,60,81.2,61.25,461.9,11.1,0
+ANG0592,2025-04-07,AngiografÃ­a PerifÃ©rica,53,110.7,62.35,335.6,7.5,0
+ANG0593,2025-02-04,AngiografÃ­a Aorta Abdominal,52,82.3,192.33,1568.1,29.4,1
+ANG0594,2025-09-27,AngiografÃ­a Aorta Abdominal,59,83.1,121.88,1153.1,22.1,0
+ANG0595,2025-06-07,AngiografÃ­a PerifÃ©rica,54,92.7,51.2,383.7,9.2,0
+ANG0596,2025-07-23,CoronariografÃ­a DiagnÃ³stica,51,99.1,68.96,574.0,10.9,1
+ANG0597,2025-07-28,CoronariografÃ­a DiagnÃ³stica,60,54.2,17.56,151.0,1.0,0
+ANG0598,2025-03-30,AngiografÃ­a Cerebral,64,58.4,159.66,1089.5,22.6,1
+ANG0599,2025-04-27,AngiografÃ­a Cerebral,48,72.1,77.43,498.9,13.1,0
+ANG0600,2025-11-14,AngiografÃ­a Aorta Abdominal,62,66.9,182.29,1456.6,25.3,1
+ANG0601,2025-04-04,CoronariografÃ­a DiagnÃ³stica,68,62.9,74.45,562.7,14.9,1
+ANG0602,2025-10-01,CoronariografÃ­a DiagnÃ³stica,85,61.1,76.63,507.3,13.4,1
+ANG0603,2025-01-14,CoronariografÃ­a DiagnÃ³stica,54,92.9,72.74,557.2,9.7,1
+ANG0604,2025-01-19,CoronariografÃ­a DiagnÃ³stica,60,74.6,32.75,224.0,7.6,0
+ANG0605,2025-12-04,AngiografÃ­a Aorta Abdominal,60,81.9,115.64,1067.8,17.6,0
+ANG0606,2025-07-03,AngiografÃ­a Renal,31,63.0,17.72,149.4,7.5,0
+ANG0607,2025-11-04,CoronariografÃ­a DiagnÃ³stica,66,94.7,61.33,369.1,9.9,0
+ANG0608,2025-04-28,CoronariografÃ­a DiagnÃ³stica,61,66.7,112.16,771.8,20.1,1
+ANG0609,2025-05-28,AngiografÃ­a Cerebral,65,63.9,50.06,425.0,12.4,0
+ANG0610,2025-10-28,AngiografÃ­a Cerebral,47,62.3,84.6,396.3,16.2,0
+ANG0611,2025-01-02,CoronariografÃ­a DiagnÃ³stica,53,50.0,49.27,435.5,7.1,0
+ANG0612,2025-04-08,CoronariografÃ­a DiagnÃ³stica,70,77.1,119.74,828.0,19.0,1
+ANG0613,2025-08-22,AngiografÃ­a Aorta Abdominal,75,81.9,62.99,608.2,15.1,0
+ANG0614,2025-09-25,AngiografÃ­a Aorta Abdominal,81,86.8,135.6,877.0,19.8,0
+ANG0615,2025-02-13,AngiografÃ­a Aorta Abdominal,58,77.9,177.15,1325.7,22.1,1
+ANG0616,2025-03-12,AngiografÃ­a Aorta Abdominal,81,106.7,212.91,1711.4,31.5,1
+ANG0617,2025-12-23,AngiografÃ­a Renal,63,81.4,37.0,238.9,10.5,0
+ANG0618,2025-10-20,AngiografÃ­a Cerebral,47,77.3,41.41,415.0,9.7,0
+ANG0619,2025-11-24,AngiografÃ­a Renal,57,78.6,25.69,180.2,5.3,0
+ANG0620,2025-04-29,CoronariografÃ­a DiagnÃ³stica,68,65.9,56.26,450.6,6.7,0
+ANG0621,2025-09-25,AngiografÃ­a Renal,70,90.2,45.66,394.6,9.6,0
+ANG0622,2025-05-05,CoronariografÃ­a DiagnÃ³stica,67,91.7,92.85,667.2,19.2,1
+ANG0623,2025-01-08,AngiografÃ­a PerifÃ©rica,51,68.7,83.65,658.5,18.1,1
+ANG0624,2025-12-28,CoronariografÃ­a DiagnÃ³stica,54,103.9,34.2,204.2,5.7,0
+ANG0625,2025-05-29,CoronariografÃ­a DiagnÃ³stica,59,87.9,74.63,510.7,12.7,1
+ANG0626,2025-03-27,AngiografÃ­a Cerebral,59,84.0,85.52,624.6,13.4,0
+ANG0627,2025-08-30,CoronariografÃ­a DiagnÃ³stica,60,68.2,28.6,312.6,4.7,0
+ANG0628,2025-02-08,AngiografÃ­a Renal,44,50.0,31.59,238.1,9.6,0
+ANG0629,2025-10-10,AngiografÃ­a Renal,66,67.0,45.25,349.9,14.1,0
+ANG0630,2025-02-26,AngiografÃ­a Cerebral,55,92.7,86.29,578.2,9.6,0
+ANG0631,2025-08-14,AngiografÃ­a Renal,70,79.9,75.29,495.3,19.8,1
+ANG0632,2025-01-30,AngiografÃ­a Cerebral,37,63.3,84.46,764.1,16.5,0
+ANG0633,2025-11-20,CoronariografÃ­a DiagnÃ³stica,66,87.9,32.13,242.0,4.9,0
+ANG0634,2025-05-20,AngiografÃ­a Aorta Abdominal,59,88.1,108.43,1029.8,26.7,0
+ANG0636,2025-04-18,CoronariografÃ­a DiagnÃ³stica,64,73.4,57.01,403.7,10.1,0
+ANG0637,2025-10-09,CoronariografÃ­a DiagnÃ³stica,57,89.2,39.21,341.7,5.0,0
+ANG0638,2025-11-04,AngiografÃ­a Renal,58,60.7,48.51,329.1,10.6,0
+ANG0639,2025-05-07,CoronariografÃ­a DiagnÃ³stica,52,100.2,71.47,464.2,11.4,1
+ANG0640,2025-01-11,AngiografÃ­a Renal,41,79.7,44.72,347.7,11.3,0
+ANG0641,2025-08-25,CoronariografÃ­a DiagnÃ³stica,58,70.4,63.33,447.9,13.5,0
+ANG0642,2025-11-05,CoronariografÃ­a DiagnÃ³stica,42,52.3,32.39,276.0,5.3,0
+ANG0643,2025-11-21,CoronariografÃ­a DiagnÃ³stica,59,86.4,44.37,363.8,8.2,0
+ANG0644,2025-03-19,AngiografÃ­a Renal,61,72.6,28.04,180.1,8.8,0
+ANG0645,2025-04-15,CoronariografÃ­a DiagnÃ³stica,67,66.2,45.3,365.6,5.7,0
+ANG0646,2025-01-04,AngiografÃ­a Cerebral,47,59.9,43.82,427.0,4.6,0
+ANG0647,2025-01-09,AngiografÃ­a Renal,53,78.5,70.54,486.5,19.5,1
+ANG0648,2025-07-26,AngiografÃ­a PerifÃ©rica,41,81.4,52.81,368.6,9.0,0
+ANG0649,2025-01-01,AngiografÃ­a Aorta Abdominal,59,59.4,82.54,706.8,18.7,0
+ANG0650,2025-03-31,AngiografÃ­a PerifÃ©rica,62,100.3,90.81,774.3,15.9,1
+ANG0651,2025-11-20,CoronariografÃ­a DiagnÃ³stica,59,75.0,76.67,634.4,12.6,1
+ANG0652,2025-06-17,AngiografÃ­a PerifÃ©rica,55,77.3,24.06,216.0,8.9,0
+ANG0653,2025-03-21,AngiografÃ­a PerifÃ©rica,81,79.5,79.14,586.2,15.0,1
+ANG0654,2025-07-14,AngiografÃ­a Cerebral,33,67.3,106.07,742.2,20.4,0
+ANG0655,2025-11-01,AngiografÃ­a Renal,64,80.7,32.78,248.0,6.9,0
+ANG0656,2025-05-25,AngiografÃ­a PerifÃ©rica,40,92.2,55.51,374.8,10.3,0
+ANG0657,2025-03-03,AngiografÃ­a Cerebral,81,76.7,159.27,1032.7,24.2,1
+ANG0658,2025-10-24,AngiografÃ­a Renal,53,102.2,35.97,302.0,8.2,0
+ANG0659,2025-08-19,CoronariografÃ­a DiagnÃ³stica,74,84.8,64.5,483.6,8.1,0
+ANG0660,2025-11-02,AngiografÃ­a Renal,50,72.6,64.16,401.8,20.3,1
+ANG0661,2025-09-23,CoronariografÃ­a DiagnÃ³stica,70,75.3,46.63,444.9,9.9,0
+ANG0662,2025-01-05,AngiografÃ­a PerifÃ©rica,61,78.7,35.58,239.1,6.2,0
+ANG0663,2025-12-19,AngiografÃ­a Renal,44,77.2,38.28,252.2,6.3,0
+ANG0664,2025-06-21,AngiografÃ­a Aorta Abdominal,65,71.2,85.3,848.5,9.0,0
+ANG0665,2025-03-28,CoronariografÃ­a DiagnÃ³stica,67,93.5,51.9,427.6,12.2,0
+ANG0666,2025-11-11,CoronariografÃ­a DiagnÃ³stica,74,70.2,48.52,366.7,5.9,0
+ANG0667,2025-04-10,AngiografÃ­a Aorta Abdominal,56,85.3,135.91,1064.1,20.6,0
+ANG0668,2025-11-21,CoronariografÃ­a DiagnÃ³stica,59,79.1,48.18,303.4,10.7,0
+ANG0669,2025-12-10,CoronariografÃ­a DiagnÃ³stica,63,50.0,36.92,360.4,5.4,0
+ANG0670,2025-04-19,CoronariografÃ­a DiagnÃ³stica,67,50.0,48.68,240.8,9.5,0
+ANG0671,2025-01-27,AngiografÃ­a Aorta Abdominal,75,94.6,92.78,866.0,19.5,0
+ANG0672,2025-06-11,AngiografÃ­a Cerebral,56,63.6,85.31,410.3,11.5,0
+ANG0673,2025-07-20,AngiografÃ­a PerifÃ©rica,69,70.6,56.47,470.1,12.4,0
+ANG0674,2025-05-30,AngiografÃ­a Aorta Abdominal,43,66.4,93.12,753.4,15.8,0
+ANG0675,2025-03-29,CoronariografÃ­a DiagnÃ³stica,66,66.0,49.82,471.1,9.0,0
+ANG0676,2025-04-18,CoronariografÃ­a DiagnÃ³stica,77,92.4,73.47,511.6,12.6,1
+ANG0677,2025-04-29,CoronariografÃ­a DiagnÃ³stica,61,71.3,96.94,662.4,15.2,1
+ANG0678,2025-01-03,CoronariografÃ­a DiagnÃ³stica,74,93.1,24.61,171.5,5.2,0
+ANG0679,2025-08-19,AngiografÃ­a Renal,42,89.0,60.3,494.9,14.3,1
+ANG0680,2025-10-04,CoronariografÃ­a DiagnÃ³stica,59,79.4,46.61,314.4,6.9,0
+ANG0681,2025-04-18,AngiografÃ­a Aorta Abdominal,55,72.9,65.6,669.3,15.3,0
+ANG0682,2025-09-15,AngiografÃ­a PerifÃ©rica,44,74.7,55.28,506.8,9.2,0
+ANG0683,2025-01-22,AngiografÃ­a Aorta Abdominal,75,66.2,88.26,532.1,19.4,0
+ANG0684,2025-02-08,CoronariografÃ­a DiagnÃ³stica,72,92.1,143.23,903.7,21.2,1
+ANG0685,2025-12-02,AngiografÃ­a PerifÃ©rica,61,50.0,40.43,366.0,13.0,0
+ANG0686,2025-03-08,CoronariografÃ­a DiagnÃ³stica,65,50.0,46.29,369.5,6.1,0
+ANG0687,2025-08-14,AngiografÃ­a Cerebral,54,50.0,114.07,863.5,18.8,0
+ANG0688,2025-05-10,AngiografÃ­a Aorta Abdominal,61,78.8,160.24,1207.9,25.5,1
+ANG0689,2025-03-13,CoronariografÃ­a DiagnÃ³stica,80,89.7,101.8,615.9,16.6,1
+ANG0690,2025-10-20,CoronariografÃ­a DiagnÃ³stica,58,50.0,37.8,257.8,7.2,0
+ANG0691,2025-06-25,AngiografÃ­a Aorta Abdominal,67,61.6,350.0,2435.4,47.0,1
+ANG0692,2025-11-21,AngiografÃ­a Cerebral,69,88.3,111.87,823.0,21.1,0
+ANG0693,2025-12-13,AngiografÃ­a Cerebral,70,52.4,83.34,472.0,17.4,0
+ANG0694,2025-02-22,AngiografÃ­a Aorta Abdominal,60,82.7,162.08,1332.6,24.1,1
+ANG0695,2025-12-15,AngiografÃ­a PerifÃ©rica,57,78.6,31.33,122.9,8.6,0
+ANG0696,2025-01-11,CoronariografÃ­a DiagnÃ³stica,75,86.5,60.03,526.2,12.4,0
+ANG0697,2025-04-09,AngiografÃ­a Cerebral,36,79.0,133.98,994.0,16.7,0
+ANG0698,2025-07-29,CoronariografÃ­a DiagnÃ³stica,66,77.1,35.89,312.4,7.1,0
+ANG0699,2025-07-07,CoronariografÃ­a DiagnÃ³stica,55,52.1,43.97,379.6,9.6,0
+ANG0701,2025-05-03,AngiografÃ­a PerifÃ©rica,65,64.2,94.98,696.7,18.1,1
+ANG0702,2025-11-14,AngiografÃ­a Cerebral,80,92.6,83.97,580.8,15.5,0
+ANG0703,2025-04-27,AngiografÃ­a PerifÃ©rica,45,93.5,80.09,515.0,21.1,1
+ANG0704,2025-09-06,AngiografÃ­a Cerebral,62,112.7,137.95,1046.3,23.8,1
+ANG0705,2025-03-21,AngiografÃ­a PerifÃ©rica,57,79.3,75.03,556.3,12.7,0
+ANG0706,2025-04-12,AngiografÃ­a Cerebral,54,76.4,72.63,492.8,15.4,0
+ANG0707,2025-03-14,CoronariografÃ­a DiagnÃ³stica,61,82.4,65.38,471.3,12.7,0
+ANG0708,2025-02-11,CoronariografÃ­a DiagnÃ³stica,73,66.3,28.94,294.8,6.3,0
+ANG0709,2025-05-09,AngiografÃ­a Aorta Abdominal,65,62.7,59.7,408.2,6.3,0
+ANG0710,2025-02-22,AngiografÃ­a Renal,69,85.6,65.41,515.8,16.2,1
+ANG0711,2025-07-31,AngiografÃ­a Aorta Abdominal,49,90.8,62.54,619.8,9.6,0
+ANG0712,2025-10-28,AngiografÃ­a Aorta Abdominal,71,81.3,83.7,848.0,15.5,0
+ANG0713,2025-01-16,CoronariografÃ­a DiagnÃ³stica,53,87.6,51.75,450.5,10.7,0
+ANG0714,2025-08-06,AngiografÃ­a Cerebral,52,67.4,40.95,370.1,8.0,0
+ANG0715,2025-04-13,CoronariografÃ­a DiagnÃ³stica,60,93.8,61.16,450.4,11.2,0
+ANG0716,2025-05-12,CoronariografÃ­a DiagnÃ³stica,49,103.7,59.08,458.6,7.9,0
+ANG0717,2025-07-07,CoronariografÃ­a DiagnÃ³stica,56,61.0,44.41,310.8,7.3,0
+ANG0718,2025-01-22,AngiografÃ­a PerifÃ©rica,64,100.3,49.72,404.4,13.3,0
+ANG0719,2025-03-09,AngiografÃ­a Cerebral,75,56.1,232.02,1558.3,37.2,1
+ANG0720,2025-02-08,CoronariografÃ­a DiagnÃ³stica,76,81.3,14.26,143.4,1.7,0
+ANG0721,2025-02-18,AngiografÃ­a Renal,63,61.8,58.76,413.8,14.4,1
+ANG0722,2025-08-17,CoronariografÃ­a DiagnÃ³stica,58,71.8,85.25,554.0,13.9,1
+ANG0723,2025-01-12,AngiografÃ­a Cerebral,71,63.4,100.86,705.2,13.6,0
+ANG0724,2025-04-10,CoronariografÃ­a DiagnÃ³stica,70,69.4,62.74,412.4,8.9,0
+ANG0725,2025-06-19,CoronariografÃ­a DiagnÃ³stica,61,70.5,30.92,283.7,5.1,0
+ANG0726,2025-09-27,CoronariografÃ­a DiagnÃ³stica,68,87.3,51.43,488.6,7.7,0
+ANG0727,2025-02-21,CoronariografÃ­a DiagnÃ³stica,62,87.9,40.39,345.0,6.6,0
+ANG0728,2025-01-30,CoronariografÃ­a DiagnÃ³stica,53,84.8,35.86,266.5,5.4,0
+ANG0729,2025-03-03,CoronariografÃ­a DiagnÃ³stica,66,50.0,60.66,478.2,12.4,0
+ANG0730,2025-02-16,CoronariografÃ­a DiagnÃ³stica,70,74.9,67.64,501.8,13.3,1
+ANG0731,2025-10-27,CoronariografÃ­a DiagnÃ³stica,63,75.6,84.72,589.9,12.2,1
+ANG0732,2025-02-24,CoronariografÃ­a DiagnÃ³stica,62,89.5,56.25,378.9,7.2,0
+ANG0734,2025-04-14,AngiografÃ­a Aorta Abdominal,62,76.1,98.52,787.5,11.2,0
+ANG0735,2025-09-12,AngiografÃ­a Renal,61,58.2,55.45,381.1,10.8,0
+ANG0736,2025-11-24,AngiografÃ­a PerifÃ©rica,75,79.9,61.76,415.4,17.0,0
+ANG0737,2025-03-24,AngiografÃ­a PerifÃ©rica,57,75.1,121.78,841.4,26.2,1
+ANG0738,2025-01-16,CoronariografÃ­a DiagnÃ³stica,57,80.3,83.36,583.1,12.6,1
+ANG0739,2025-08-08,AngiografÃ­a Cerebral,59,64.2,187.79,1305.8,28.2,1
+ANG0740,2025-12-19,CoronariografÃ­a DiagnÃ³stica,57,53.3,46.77,299.3,10.4,0
+ANG0741,2025-02-08,AngiografÃ­a PerifÃ©rica,30,80.5,48.5,343.0,12.2,0
+ANG0742,2025-09-30,AngiografÃ­a Aorta Abdominal,81,50.7,98.7,807.2,19.7,0
+ANG0743,2025-09-19,AngiografÃ­a Aorta Abdominal,73,74.7,159.14,1304.5,21.4,1
+ANG0744,2025-03-30,AngiografÃ­a Renal,53,61.3,108.95,748.2,25.6,1
+ANG0745,2025-03-20,CoronariografÃ­a DiagnÃ³stica,73,73.4,42.19,294.8,9.8,0
+ANG0746,2025-11-19,AngiografÃ­a Cerebral,39,50.0,71.04,516.6,6.7,0
+ANG0747,2025-05-09,AngiografÃ­a Renal,70,98.5,24.69,178.4,8.7,0
+ANG0748,2025-06-23,AngiografÃ­a Aorta Abdominal,77,81.0,177.87,1376.0,30.5,1
+ANG0749,2025-07-11,AngiografÃ­a PerifÃ©rica,47,91.0,51.31,470.6,11.6,0
+ANG0750,2025-10-21,AngiografÃ­a Renal,43,85.0,54.55,440.2,12.8,0
+ANG0751,2025-07-17,AngiografÃ­a Cerebral,50,75.4,105.8,692.4,13.7,0
+ANG0752,2025-03-17,AngiografÃ­a PerifÃ©rica,75,66.8,76.24,602.6,15.1,0
+ANG0753,2025-03-10,AngiografÃ­a Aorta Abdominal,65,74.4,340.2,2711.4,52.7,1
+ANG0754,2025-12-25,CoronariografÃ­a DiagnÃ³stica,63,50.0,76.14,610.3,13.6,1
+ANG0755,2025-05-28,AngiografÃ­a Renal,56,105.0,40.36,390.5,11.0,0
+ANG0756,2025-11-03,AngiografÃ­a Cerebral,45,69.6,116.44,741.4,19.0,0
+ANG0757,2025-10-18,CoronariografÃ­a DiagnÃ³stica,54,75.5,26.42,270.6,6.1,0
+ANG0758,2025-11-05,AngiografÃ­a PerifÃ©rica,65,84.4,69.45,653.3,14.4,0
+ANG0759,2025-01-16,CoronariografÃ­a DiagnÃ³stica,60,62.6,61.99,455.1,11.2,0
+ANG0760,2025-06-27,AngiografÃ­a Cerebral,49,52.5,169.64,1075.5,27.8,1
+ANG0761,2025-11-15,CoronariografÃ­a DiagnÃ³stica,52,57.6,65.47,527.3,9.0,0
+ANG0762,2025-03-01,AngiografÃ­a Aorta Abdominal,44,68.8,47.35,458.4,6.9,0
+ANG0763,2025-09-02,CoronariografÃ­a DiagnÃ³stica,62,60.4,63.67,485.6,7.1,0
+ANG0764,2025-10-02,AngiografÃ­a PerifÃ©rica,69,66.1,95.32,665.2,20.5,1
+ANG0765,2025-10-16,AngiografÃ­a Cerebral,53,92.5,90.74,459.3,10.4,0
+ANG0766,2025-04-30,AngiografÃ­a Aorta Abdominal,69,50.0,101.49,824.9,16.4,0
+ANG0768,2025-08-15,AngiografÃ­a Renal,41,107.2,96.26,660.4,17.6,1
+ANG0769,2025-06-27,AngiografÃ­a PerifÃ©rica,45,61.1,57.72,364.7,14.1,0
+ANG0770,2025-05-17,CoronariografÃ­a DiagnÃ³stica,52,96.4,39.95,363.7,4.2,0
+ANG0771,2025-07-17,AngiografÃ­a PerifÃ©rica,61,86.8,105.03,755.6,17.6,1
+ANG0772,2025-09-12,AngiografÃ­a Aorta Abdominal,71,60.9,190.13,1486.0,25.0,1
+ANG0773,2025-09-13,CoronariografÃ­a DiagnÃ³stica,77,83.4,45.83,363.5,3.3,0
+ANG0774,2025-11-24,AngiografÃ­a Cerebral,52,88.0,55.53,492.8,12.0,0
+ANG0775,2025-04-10,CoronariografÃ­a DiagnÃ³stica,56,80.1,103.02,793.0,17.1,1
+ANG0776,2025-04-17,AngiografÃ­a PerifÃ©rica,57,72.0,39.06,334.6,10.2,0
+ANG0777,2025-03-31,AngiografÃ­a Aorta Abdominal,42,110.3,128.05,985.9,23.3,0
+ANG0778,2025-11-19,CoronariografÃ­a DiagnÃ³stica,52,88.1,72.7,551.4,11.9,1
+ANG0779,2025-07-07,CoronariografÃ­a DiagnÃ³stica,67,79.9,46.35,334.2,8.8,0
+ANG0780,2025-05-29,AngiografÃ­a Aorta Abdominal,49,67.0,118.13,983.7,24.6,0
+ANG0781,2025-08-02,AngiografÃ­a Cerebral,34,86.8,97.72,863.6,12.9,0
+ANG0782,2025-05-22,AngiografÃ­a Cerebral,57,64.8,147.22,1092.4,26.7,1
+ANG0783,2025-10-17,CoronariografÃ­a DiagnÃ³stica,52,80.5,50.61,422.0,6.1,0
+ANG0784,2025-04-26,CoronariografÃ­a DiagnÃ³stica,63,59.8,22.94,212.4,3.7,0
+ANG0785,2025-08-25,CoronariografÃ­a DiagnÃ³stica,51,87.0,51.29,315.8,8.5,0
+ANG0786,2025-10-20,CoronariografÃ­a DiagnÃ³stica,62,84.7,72.05,516.0,10.2,1
+ANG0787,2025-02-22,AngiografÃ­a Renal,48,94.9,61.06,465.0,11.9,1
+ANG0788,2025-09-07,AngiografÃ­a PerifÃ©rica,62,81.3,90.87,725.1,18.2,1
+ANG0789,2025-09-20,AngiografÃ­a Cerebral,43,84.8,131.88,824.0,12.5,0
+ANG0790,2025-02-10,CoronariografÃ­a DiagnÃ³stica,62,81.7,38.55,294.7,7.5,0
+ANG0791,2025-02-08,AngiografÃ­a Cerebral,51,59.9,92.83,643.7,21.6,0
+ANG0792,2025-08-01,AngiografÃ­a Cerebral,69,73.9,151.16,895.8,23.4,1
+ANG0793,2025-09-15,AngiografÃ­a Renal,66,70.7,45.37,372.5,10.0,0
+ANG0794,2025-07-21,AngiografÃ­a Renal,83,101.2,67.23,466.0,13.0,1
+ANG0795,2025-04-21,AngiografÃ­a Renal,57,92.7,42.79,398.8,10.3,0
+ANG0796,2025-02-09,AngiografÃ­a Cerebral,50,62.2,98.19,798.3,13.4,0
+ANG0797,2025-08-30,AngiografÃ­a PerifÃ©rica,58,79.6,43.23,336.5,7.5,0
+ANG0799,2025-12-14,AngiografÃ­a Cerebral,63,50.0,75.39,666.0,19.0,0
+ANG0800,2025-08-09,AngiografÃ­a PerifÃ©rica,63,79.3,54.3,459.9,15.0,0
+ANG0801,2025-12-07,AngiografÃ­a Cerebral,61,66.6,62.38,608.4,10.7,0
+ANG0802,2025-01-10,AngiografÃ­a Renal,45,56.6,69.81,551.7,17.0,1
+ANG0803,2025-06-26,AngiografÃ­a Cerebral,67,120.0,136.95,858.2,19.9,1
+ANG0804,2025-09-10,AngiografÃ­a PerifÃ©rica,54,60.3,39.97,411.9,11.9,0
+ANG0805,2025-08-23,CoronariografÃ­a DiagnÃ³stica,66,81.9,43.21,399.0,6.1,0
+ANG0806,2025-07-11,CoronariografÃ­a DiagnÃ³stica,71,75.1,43.26,352.1,7.0,0
+ANG0807,2025-12-28,AngiografÃ­a Aorta Abdominal,43,50.0,68.09,536.1,21.2,0
+ANG0808,2025-04-24,CoronariografÃ­a DiagnÃ³stica,68,50.0,75.9,567.0,10.6,1
+ANG0809,2025-10-03,AngiografÃ­a Cerebral,60,86.1,115.37,689.5,19.1,0
+ANG0810,2025-03-26,CoronariografÃ­a DiagnÃ³stica,82,84.1,50.36,422.2,7.4,0
+ANG0811,2025-04-09,AngiografÃ­a Cerebral,62,82.8,106.65,751.8,19.3,0
+ANG0812,2025-03-27,CoronariografÃ­a DiagnÃ³stica,56,72.4,33.64,325.1,8.1,0
+ANG0813,2025-10-25,AngiografÃ­a Aorta Abdominal,85,50.0,100.66,1005.3,17.3,0
+ANG0814,2025-03-05,AngiografÃ­a PerifÃ©rica,69,71.7,65.93,483.1,14.9,0
+ANG0815,2025-06-15,AngiografÃ­a PerifÃ©rica,39,64.2,40.76,375.6,7.9,0
+ANG0816,2025-03-20,AngiografÃ­a PerifÃ©rica,53,70.0,31.79,320.1,7.2,0
+ANG0817,2025-08-12,AngiografÃ­a Renal,63,70.1,35.16,244.9,7.3,0
+ANG0818,2025-07-29,AngiografÃ­a Aorta Abdominal,67,94.5,86.17,575.7,15.7,0
+ANG0819,2025-07-03,CoronariografÃ­a DiagnÃ³stica,53,74.7,94.4,744.2,16.2,1
+ANG0820,2025-08-09,AngiografÃ­a Cerebral,56,50.0,105.02,749.4,15.6,0
+ANG0821,2025-06-27,CoronariografÃ­a DiagnÃ³stica,44,66.6,37.8,318.1,11.0,0
+ANG0822,2025-04-28,AngiografÃ­a Aorta Abdominal,64,54.1,246.18,1873.3,36.1,1
+ANG0823,2025-02-13,AngiografÃ­a Cerebral,67,80.3,94.16,736.2,17.8,0
+ANG0824,2025-08-07,AngiografÃ­a Aorta Abdominal,70,85.6,193.13,1574.2,34.0,1
+ANG0825,2025-07-09,AngiografÃ­a Cerebral,74,86.1,132.06,1113.1,23.1,0
+ANG0826,2025-11-19,AngiografÃ­a Cerebral,70,110.1,81.67,658.3,13.6,0
+ANG0827,2025-06-20,AngiografÃ­a PerifÃ©rica,80,66.2,28.53,302.8,4.1,0
+ANG0828,2025-06-13,CoronariografÃ­a DiagnÃ³stica,57,89.4,45.19,307.5,7.6,0
+ANG0829,2025-08-22,CoronariografÃ­a DiagnÃ³stica,55,84.2,46.95,331.9,9.3,0
+ANG0830,2025-05-21,AngiografÃ­a PerifÃ©rica,68,81.5,84.67,652.9,17.4,1
+ANG0831,2025-06-08,CoronariografÃ­a DiagnÃ³stica,65,89.9,33.94,319.5,9.1,0
+ANG0832,2025-07-15,AngiografÃ­a Aorta Abdominal,67,84.5,81.95,665.1,19.0,0
+ANG0833,2025-03-18,AngiografÃ­a PerifÃ©rica,55,83.0,49.81,349.0,10.6,0
+ANG0834,2025-12-29,CoronariografÃ­a DiagnÃ³stica,73,109.1,33.06,305.9,5.4,0
+ANG0835,2025-06-14,CoronariografÃ­a DiagnÃ³stica,64,50.0,29.05,291.1,7.1,0
+ANG0836,2025-11-29,AngiografÃ­a Aorta Abdominal,74,50.0,102.53,924.3,11.7,0
+ANG0837,2025-04-03,AngiografÃ­a Cerebral,66,69.6,204.18,1485.5,35.4,1
+ANG0838,2025-09-17,AngiografÃ­a Renal,43,95.5,26.73,134.8,9.5,0
+ANG0839,2025-03-30,AngiografÃ­a Cerebral,62,99.3,53.77,410.5,10.5,0
+ANG0840,2025-08-26,AngiografÃ­a Aorta Abdominal,65,72.0,130.87,1204.2,14.8,0
+ANG0841,2025-10-02,AngiografÃ­a Cerebral,61,65.7,66.08,274.5,10.9,0
+ANG0842,2025-06-01,AngiografÃ­a Aorta Abdominal,80,88.6,226.34,1430.8,33.3,1
+ANG0843,2025-07-10,AngiografÃ­a Aorta Abdominal,61,67.3,118.05,1077.8,28.7,0
+ANG0844,2025-12-06,CoronariografÃ­a DiagnÃ³stica,70,76.6,25.12,143.6,4.8,0
+ANG0845,2025-12-22,AngiografÃ­a PerifÃ©rica,57,81.0,68.17,549.2,14.3,0
+ANG0846,2025-03-29,AngiografÃ­a Aorta Abdominal,59,51.6,260.11,1904.7,35.8,1
+ANG0847,2025-12-24,AngiografÃ­a Cerebral,52,50.0,172.72,1172.0,27.4,1
+ANG0848,2025-09-24,CoronariografÃ­a DiagnÃ³stica,57,93.8,33.89,349.8,6.0,0
+ANG0849,2025-10-14,AngiografÃ­a Cerebral,62,106.0,50.46,518.9,10.0,0
+ANG0850,2025-09-23,CoronariografÃ­a DiagnÃ³stica,70,98.7,41.92,338.1,9.9,0
+ANG0851,2025-11-19,CoronariografÃ­a DiagnÃ³stica,61,61.6,71.11,487.4,9.8,1
+ANG0853,2025-06-03,AngiografÃ­a PerifÃ©rica,65,100.1,96.41,675.5,21.1,1
+ANG0854,2025-05-29,CoronariografÃ­a DiagnÃ³stica,57,63.5,80.06,561.5,14.0,1
+ANG0855,2025-10-13,CoronariografÃ­a DiagnÃ³stica,70,55.1,53.87,479.7,10.2,0
+ANG0856,2025-01-26,CoronariografÃ­a DiagnÃ³stica,85,80.3,60.36,463.2,9.7,0
+ANG0857,2025-12-03,AngiografÃ­a PerifÃ©rica,67,50.0,78.57,521.5,16.0,0
+ANG0858,2025-01-26,CoronariografÃ­a DiagnÃ³stica,75,56.7,87.15,611.5,15.8,1
+ANG0859,2025-06-07,AngiografÃ­a Cerebral,51,54.0,112.28,826.3,15.2,0
+ANG0860,2025-06-17,AngiografÃ­a Aorta Abdominal,55,74.6,40.18,234.3,8.4,0
+ANG0861,2025-12-28,CoronariografÃ­a DiagnÃ³stica,59,91.2,45.37,320.2,6.9,0
+ANG0862,2025-02-06,CoronariografÃ­a DiagnÃ³stica,52,79.6,59.43,460.2,9.4,0
+ANG0863,2025-08-02,CoronariografÃ­a DiagnÃ³stica,55,71.1,24.79,214.1,4.7,0
+ANG0864,2025-05-12,AngiografÃ­a Aorta Abdominal,70,93.7,175.13,1236.6,27.1,1
+ANG0865,2025-02-27,CoronariografÃ­a DiagnÃ³stica,63,60.5,46.52,426.1,5.7,0
+ANG0866,2025-11-16,AngiografÃ­a Cerebral,48,66.9,84.65,640.4,17.7,0
+ANG0867,2025-07-10,AngiografÃ­a Cerebral,48,74.1,197.58,1453.6,36.1,1
+ANG0868,2025-06-13,CoronariografÃ­a DiagnÃ³stica,78,81.5,42.0,303.0,7.1,0
+ANG0869,2025-01-28,CoronariografÃ­a DiagnÃ³stica,74,81.3,68.11,430.2,11.1,1
+ANG0870,2025-10-04,AngiografÃ­a Cerebral,43,50.0,96.47,746.1,16.8,0
+ANG0871,2025-04-15,AngiografÃ­a Cerebral,32,96.5,65.81,467.5,12.5,0
+ANG0872,2025-09-28,CoronariografÃ­a DiagnÃ³stica,55,65.6,42.23,307.3,7.7,0
+ANG0873,2025-05-19,AngiografÃ­a Renal,35,95.5,81.39,602.4,19.1,1
+ANG0874,2025-07-16,AngiografÃ­a Cerebral,74,90.8,122.93,787.9,19.3,0
+ANG0875,2025-12-22,AngiografÃ­a PerifÃ©rica,58,102.8,70.84,537.2,13.0,0
+ANG0876,2025-04-16,AngiografÃ­a Renal,63,86.4,34.21,206.9,6.9,0
+ANG0877,2025-11-26,CoronariografÃ­a DiagnÃ³stica,75,52.3,26.82,130.7,4.2,0
+ANG0878,2025-03-31,AngiografÃ­a PerifÃ©rica,61,50.0,34.15,343.7,11.6,0
+ANG0879,2025-11-22,CoronariografÃ­a DiagnÃ³stica,72,52.9,58.61,438.5,9.1,0
+ANG0880,2025-10-05,CoronariografÃ­a DiagnÃ³stica,63,78.0,53.32,380.7,8.3,0
+ANG0881,2025-02-16,CoronariografÃ­a DiagnÃ³stica,50,69.0,60.64,468.9,9.0,0
+ANG0882,2025-03-26,AngiografÃ­a Cerebral,58,56.3,55.35,419.9,4.6,0
+ANG0883,2025-08-18,CoronariografÃ­a DiagnÃ³stica,67,64.9,70.49,492.0,10.8,1
+ANG0884,2025-12-21,CoronariografÃ­a DiagnÃ³stica,51,74.1,82.18,615.3,17.0,1
+ANG0885,2025-10-12,AngiografÃ­a Aorta Abdominal,63,84.8,173.49,1368.9,24.8,1
+ANG0886,2025-09-10,CoronariografÃ­a DiagnÃ³stica,44,55.3,67.92,533.7,12.0,1
+ANG0887,2025-07-09,AngiografÃ­a PerifÃ©rica,45,97.8,82.27,683.7,14.0,1
+ANG0888,2025-04-04,CoronariografÃ­a DiagnÃ³stica,62,79.8,25.94,210.8,5.4,0
+ANG0889,2025-03-14,AngiografÃ­a PerifÃ©rica,42,63.1,79.01,616.8,15.8,0
+ANG0890,2025-11-10,CoronariografÃ­a DiagnÃ³stica,83,50.0,42.67,343.8,10.2,0
+ANG0891,2025-07-24,AngiografÃ­a Aorta Abdominal,68,78.7,94.26,824.4,22.3,0
+ANG0892,2025-06-07,AngiografÃ­a Aorta Abdominal,69,81.8,76.83,725.8,13.8,0
+ANG0893,2025-09-01,AngiografÃ­a Aorta Abdominal,71,50.0,192.53,1642.1,30.3,1
+ANG0894,2025-10-16,CoronariografÃ­a DiagnÃ³stica,67,71.7,75.36,593.0,13.0,1
+ANG0895,2025-10-28,AngiografÃ­a Aorta Abdominal,60,106.2,134.85,930.2,21.9,0
+ANG0896,2025-09-03,CoronariografÃ­a DiagnÃ³stica,55,62.4,38.19,239.4,5.0,0
+ANG0897,2025-03-29,AngiografÃ­a Aorta Abdominal,73,75.9,126.49,1075.0,19.0,0
+ANG0898,2025-12-11,AngiografÃ­a Cerebral,35,67.4,161.82,1121.5,25.8,1
+ANG0900,2025-02-18,AngiografÃ­a Renal,59,66.8,56.76,380.4,16.8,1
+ANG0901,2025-05-13,AngiografÃ­a PerifÃ©rica,51,93.4,76.38,434.5,13.6,0
+ANG0902,2025-05-02,AngiografÃ­a PerifÃ©rica,50,80.5,34.82,340.8,6.3,0
+ANG0903,2025-07-10,CoronariografÃ­a DiagnÃ³stica,66,86.6,34.91,284.3,7.7,0
+ANG0904,2025-06-01,CoronariografÃ­a DiagnÃ³stica,76,81.6,32.11,305.9,3.5,0
+ANG0905,2025-12-31,CoronariografÃ­a DiagnÃ³stica,74,72.0,40.91,249.9,10.7,0
+ANG0906,2025-09-25,AngiografÃ­a Cerebral,64,77.5,308.93,2012.3,43.1,1
+ANG0907,2025-12-18,AngiografÃ­a Aorta Abdominal,76,74.5,158.36,1270.2,18.9,1
+ANG0908,2025-05-24,CoronariografÃ­a DiagnÃ³stica,30,65.6,66.55,505.5,12.4,0
+ANG0909,2025-06-21,AngiografÃ­a Aorta Abdominal,85,60.8,43.0,363.7,4.9,0
+ANG0910,2025-03-15,AngiografÃ­a Cerebral,50,67.8,57.15,631.8,7.1,0
+ANG0911,2025-12-28,AngiografÃ­a PerifÃ©rica,57,75.4,44.69,267.8,5.7,0
+ANG0912,2025-06-01,AngiografÃ­a Aorta Abdominal,60,85.1,350.0,2625.6,52.1,1
+ANG0913,2025-05-08,CoronariografÃ­a DiagnÃ³stica,54,80.7,78.52,497.6,13.7,1
+ANG0914,2025-04-14,AngiografÃ­a Cerebral,54,72.8,38.88,369.0,14.1,0
+ANG0915,2025-09-10,CoronariografÃ­a DiagnÃ³stica,78,65.7,44.58,395.2,8.1,0
+ANG0916,2025-02-25,CoronariografÃ­a DiagnÃ³stica,48,58.4,28.32,262.0,5.0,0
+ANG0917,2025-06-17,AngiografÃ­a Renal,70,76.4,33.33,156.9,8.4,0
+ANG0918,2025-03-03,AngiografÃ­a Renal,51,83.0,30.73,259.5,9.9,0
+ANG0919,2025-01-30,AngiografÃ­a Cerebral,57,56.2,125.34,902.9,24.1,0
+ANG0920,2025-09-26,CoronariografÃ­a DiagnÃ³stica,73,85.1,80.39,722.2,11.7,1
+ANG0921,2025-10-17,CoronariografÃ­a DiagnÃ³stica,63,79.5,34.08,322.1,9.8,0
+ANG0922,2025-03-24,CoronariografÃ­a DiagnÃ³stica,51,70.2,60.87,469.6,12.5,0
+ANG0923,2025-09-28,AngiografÃ­a Aorta Abdominal,54,90.1,98.34,854.2,17.4,0
+ANG0924,2025-03-14,AngiografÃ­a Cerebral,72,98.4,178.82,1228.8,25.3,1
+ANG0925,2025-07-05,CoronariografÃ­a DiagnÃ³stica,60,50.7,42.57,386.9,7.1,0
+ANG0926,2025-01-26,AngiografÃ­a Cerebral,61,76.6,109.55,559.6,14.6,0
+ANG0927,2025-09-30,CoronariografÃ­a DiagnÃ³stica,60,50.0,15.59,65.7,3.2,0
+ANG0928,2025-07-17,CoronariografÃ­a DiagnÃ³stica,59,92.7,118.73,915.9,13.3,1
+ANG0929,2025-07-08,CoronariografÃ­a DiagnÃ³stica,63,76.8,33.0,243.3,3.5,0
+ANG0930,2025-12-05,AngiografÃ­a PerifÃ©rica,56,60.7,49.76,332.9,10.7,0
+ANG0931,2025-06-18,AngiografÃ­a Cerebral,56,50.0,190.72,1232.8,30.4,1
+ANG0932,2025-01-23,CoronariografÃ­a DiagnÃ³stica,60,76.0,22.36,225.2,3.0,0
+ANG0933,2025-07-22,AngiografÃ­a Aorta Abdominal,65,71.0,107.16,955.5,20.4,0
+ANG0934,2025-12-14,CoronariografÃ­a DiagnÃ³stica,62,72.6,47.47,347.2,8.3,0
+ANG0935,2025-11-25,CoronariografÃ­a DiagnÃ³stica,59,87.7,58.07,408.0,10.8,0
+ANG0936,2025-01-02,CoronariografÃ­a DiagnÃ³stica,55,76.3,30.5,305.6,6.5,0
+ANG0937,2025-10-09,AngiografÃ­a Cerebral,51,60.9,165.72,1092.9,25.7,1
+ANG0938,2025-07-06,CoronariografÃ­a DiagnÃ³stica,68,65.6,49.56,310.0,8.1,0
+ANG0939,2025-03-11,CoronariografÃ­a DiagnÃ³stica,58,93.6,79.98,552.7,10.1,1
+ANG0940,2025-11-21,CoronariografÃ­a DiagnÃ³stica,42,78.1,37.55,384.9,6.3,0
+ANG0941,2025-03-06,AngiografÃ­a PerifÃ©rica,75,104.2,33.18,315.8,14.7,0
+ANG0942,2025-11-24,AngiografÃ­a Renal,59,76.1,55.66,434.7,13.1,0
+ANG0943,2025-03-30,AngiografÃ­a Cerebral,60,66.6,142.4,988.9,18.1,1
+ANG0944,2025-01-02,AngiografÃ­a PerifÃ©rica,75,82.7,98.85,669.3,15.5,1
+ANG0945,2025-02-18,AngiografÃ­a Cerebral,51,87.8,96.27,735.9,12.7,0
+ANG0946,2025-08-18,AngiografÃ­a Renal,36,61.0,47.31,401.9,10.8,0
+ANG0947,2025-07-23,AngiografÃ­a Cerebral,37,117.5,79.6,602.7,11.7,0
+ANG0948,2025-07-05,AngiografÃ­a PerifÃ©rica,52,70.0,52.63,505.9,15.8,0
+ANG0949,2025-08-25,CoronariografÃ­a DiagnÃ³stica,74,75.5,31.89,179.9,8.6,0
+ANG0950,2025-04-25,AngiografÃ­a Cerebral,71,105.1,135.31,837.7,22.6,1
+ANG0951,2025-06-03,AngiografÃ­a PerifÃ©rica,63,71.4,48.25,496.5,13.0,0
+ANG0952,2025-06-17,AngiografÃ­a Cerebral,59,73.1,32.97,179.8,8.0,0
+ANG0953,2025-01-02,AngiografÃ­a Aorta Abdominal,44,77.7,49.01,400.6,8.2,0
+ANG0954,2025-06-07,CoronariografÃ­a DiagnÃ³stica,56,98.4,22.76,204.4,3.4,0
+ANG0955,2025-04-14,AngiografÃ­a PerifÃ©rica,66,81.8,133.36,1031.6,25.7,1
+ANG0956,2025-01-11,AngiografÃ­a Aorta Abdominal,61,66.0,49.84,478.0,11.0,0
+ANG0957,2025-05-06,AngiografÃ­a Cerebral,75,105.9,135.09,981.0,17.6,1
+ANG0958,2025-12-03,AngiografÃ­a Aorta Abdominal,76,85.1,254.05,1720.1,34.1,1
+ANG0959,2025-02-28,AngiografÃ­a Cerebral,62,57.1,48.32,196.4,11.3,0
+ANG0961,2025-06-09,AngiografÃ­a Cerebral,46,84.4,63.02,630.2,8.4,0
+ANG0962,2025-09-17,AngiografÃ­a Cerebral,30,100.8,103.98,644.3,18.8,0
+ANG0963,2025-11-16,AngiografÃ­a PerifÃ©rica,53,66.0,43.2,307.9,8.1,0
+ANG0964,2025-12-12,AngiografÃ­a Aorta Abdominal,60,54.6,196.55,1599.1,37.0,1
+ANG0965,2025-05-31,CoronariografÃ­a DiagnÃ³stica,65,69.8,50.6,392.7,12.0,0
+ANG0966,2025-09-24,CoronariografÃ­a DiagnÃ³stica,57,52.8,99.76,689.2,14.9,1
+ANG0967,2025-10-05,CoronariografÃ­a DiagnÃ³stica,69,71.6,26.12,162.3,7.0,0
+ANG0968,2025-02-24,AngiografÃ­a Cerebral,53,82.7,140.7,868.5,18.0,1
+ANG0969,2025-06-08,CoronariografÃ­a DiagnÃ³stica,62,91.4,46.55,245.4,8.0,0
+ANG0970,2025-02-21,CoronariografÃ­a DiagnÃ³stica,72,72.2,29.69,130.8,5.6,0
+ANG0971,2025-08-13,AngiografÃ­a Renal,58,78.2,28.03,259.8,5.9,0
+ANG0972,2025-11-05,CoronariografÃ­a DiagnÃ³stica,55,84.7,29.68,319.6,6.0,0
+ANG0973,2025-05-01,CoronariografÃ­a DiagnÃ³stica,63,59.1,45.63,394.3,9.7,0
+ANG0974,2025-10-16,AngiografÃ­a PerifÃ©rica,40,66.6,43.6,388.2,9.6,0
+ANG0975,2025-08-06,CoronariografÃ­a DiagnÃ³stica,73,81.0,31.45,230.0,6.2,0
+ANG0976,2025-06-28,AngiografÃ­a Cerebral,30,85.3,141.86,1035.2,20.4,1
+ANG0977,2025-07-18,CoronariografÃ­a DiagnÃ³stica,54,53.1,43.17,359.2,6.9,0
+ANG0978,2025-03-26,AngiografÃ­a Aorta Abdominal,31,66.0,190.88,1277.6,24.5,1
+ANG0979,2025-09-15,CoronariografÃ­a DiagnÃ³stica,57,96.6,24.09,208.1,5.2,0
+ANG0980,2025-03-28,AngiografÃ­a Aorta Abdominal,71,73.2,146.25,1119.6,31.3,0
+ANG0981,2025-08-11,CoronariografÃ­a DiagnÃ³stica,70,57.7,24.38,234.5,7.0,0
+ANG0982,2025-04-20,AngiografÃ­a Aorta Abdominal,68,63.5,128.33,1050.7,28.0,0
+ANG0983,2025-09-25,AngiografÃ­a PerifÃ©rica,72,67.9,88.67,599.3,20.3,1
+ANG0984,2025-03-21,CoronariografÃ­a DiagnÃ³stica,70,99.8,63.04,492.3,11.5,0
+ANG0985,2025-10-02,CoronariografÃ­a DiagnÃ³stica,62,59.5,33.37,369.6,6.6,0
+ANG0986,2025-01-01,CoronariografÃ­a DiagnÃ³stica,79,84.9,46.29,345.1,10.1,0
+ANG0987,2025-01-25,AngiografÃ­a Cerebral,46,91.2,119.38,776.3,20.5,0
+ANG0988,2025-08-19,CoronariografÃ­a DiagnÃ³stica,59,82.0,28.77,196.4,4.6,0
+ANG0989,2025-08-23,CoronariografÃ­a DiagnÃ³stica,68,69.9,45.99,427.4,8.4,0
+ANG0991,2025-08-15,CoronariografÃ­a DiagnÃ³stica,75,58.3,30.96,248.4,4.5,0
+ANG0992,2025-12-13,AngiografÃ­a Cerebral,55,112.4,83.88,582.3,14.3,0
+ANG0993,2025-04-04,CoronariografÃ­a DiagnÃ³stica,71,77.1,28.54,220.5,6.7,0
+ANG0994,2025-04-10,AngiografÃ­a Aorta Abdominal,79,104.7,101.22,879.5,21.2,0
+ANG0995,2025-05-16,CoronariografÃ­a DiagnÃ³stica,70,87.3,72.87,606.4,15.7,1
+ANG0996,2025-01-07,CoronariografÃ­a DiagnÃ³stica,58,86.2,59.53,404.9,8.4,0
+ANG0997,2025-09-19,CoronariografÃ­a DiagnÃ³stica,70,54.8,66.66,523.9,13.2,0
+ANG0998,2025-02-16,AngiografÃ­a PerifÃ©rica,51,76.1,91.85,839.4,18.9,1
+ANG0999,2025-12-19,CoronariografÃ­a DiagnÃ³stica,85,84.1,32.26,273.0,7.4,0
+ANG1000,2025-11-12,CoronariografÃ­a DiagnÃ³stica,70,88.0,38.61,345.8,4.7,0

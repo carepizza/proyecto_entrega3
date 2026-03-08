@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/Lenovo ThinkPad/Documents/proyecto_entrega3/mlruns/1/models/m-d2f86417518d486d92ba311c3f5a3080/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.11
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.0.5
+mlflow_version: 3.9.0
+model_id: m-d2f86417518d486d92ba311c3f5a3080
+model_size_bytes: 112427
+model_uuid: m-d2f86417518d486d92ba311c3f5a3080
+prompts: null
+run_id: 6c39ef3a38bf491b979d275f2cf4e747
+utc_time_created: '2026-03-07 15:19:20.832080'
