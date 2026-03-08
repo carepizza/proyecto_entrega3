@@ -1,0 +1,4 @@
+[core]
+    remote = awsremote
+['remote "awsremote"']
+    url = s3://proyecto-entrega3-dvc
