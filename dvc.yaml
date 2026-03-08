@@ -7,17 +7,6 @@ stages:
     outs:
     - data/processed/angiografia_clean.csv
 
-  train:
-    cmd: python src/train.py
-    deps:
-    - data/processed/angiografia_clean.csv
-    - src/train.py
-    outs:
-    - models/best_model.pkl
-    - models/logistic_regression_model.pkl
-    - models/random_forest_model.pkl
-    - models/xgboost_model.pkl
-
   evaluate:
     cmd: echo "Evaluation completed"
     deps:
