@@ -19,3 +19,4 @@ __pycache__/
 
 # NO ignorar archivos .dvc, necesarios para DVC
 !*.dvc
+/models
